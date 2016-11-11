@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Line Graph</title>
+</head>
+<body>
+<textarea id="rawdata">
+#date,maxtemp
+19920101,   60
+19920102,   70
+19920103,   51
+19920104,   66
+19920105,   81
+19920106,   87
+19920107,   36
+19920108,   75
+19920109,   64
+19920110,   24
+19920111,  -26
+19920112,    7
+19920113,   45
+19920114,   63
+19920115,   66
+19920116,   54
+19920117,   59
+19920118,   57
+19920119,   61
+19920120,    3
+19920121,  -33
+19920122,  -47
+19920123,  -50
+19920124,  -54
+19920125,  -36
+19920126,   22
+19920127,   23
+19920128,   -7
+19920129,   16
+19920130,    9
+19920131,   -4
+19920201,  -18
+19920202,   -6
+19920203,   53
+19920204,   33
+19920205,   69
+19920206,   78
+19920207,   49
+19920208,   34
+19920209,   46
+19920210,   63
+19920211,   71
+19920212,  103
+19920213,   74
+19920214,   64
+19920215,   80
+19920216,   32
+19920217,    3
+19920218,   -9
+19920219,   11
+19920220,   24
+19920221,   43
+19920222,   38
+19920223,   63
+19920224,   64
+19920225,   60
+19920226,   69
+19920227,   85
+19920228,   68
+19920229,   88
+19920301,   97
+19920302,   67
+19920303,   72
+19920304,   88
+19920305,   99
+19920306,   80
+19920307,   76
+19920308,   80
+19920309,   70
+19920310,   74
+19920311,   59
+19920312,   85
+19920313,   62
+19920314,   34
+19920315,   44
+19920316,   58
+19920317,   89
+19920318,   87
+19920319,   86
+19920320,   92
+19920321,   86
+19920322,   58
+19920323,   50
+19920324,   49
+19920325,   51
+19920326,   44
+19920327,   49
+19920328,   34
+19920329,   40
+19920330,   83
+19920331,   84
+19920401,   63
+19920402,   58
+19920403,   62
+19920404,   51
+19920405,   52
+19920406,   73
+19920407,   99
+19920408,  106
+19920409,   99
+19920410,  103
+19920411,  100
+19920412,   90
+19920413,   72
+19920414,   98
+19920415,   60
+19920416,   46
+19920417,   58
+19920418,  117
+19920419,   85
+19920420,   68
+19920421,   97
+19920422,  105
+19920423,   95
+19920424,  122
+19920425,  126
+19920426,  122
+19920427,  111
+19920428,   90
+19920429,   88
+19920430,   97
+19920501,   95
+19920502,   86
+19920503,   86
+19920504,   91
+19920505,  110
+19920506,  125
+19920507,  142
+19920508,  111
+19920509,   86
+19920510,   97
+19920511,  106
+19920512,  116
+19920513,  158
+19920514,  219
+19920515,  195
+19920516,  139
+19920517,  123
+19920518,  164
+19920519,  184
+19920520,  191
+19920521,  188
+19920522,  202
+19920523,  216
+19920524,  215
+19920525,  218
+19920526,  194
+19920527,  193
+19920528,  213
+19920529,  193
+19920530,  184
+19920531,  198
+19920601,  192
+19920602,  179
+19920603,  166
+19920604,  137
+19920605,  156
+19920606,  174
+19920607,  153
+19920608,  166
+19920609,  161
+19920610,  181
+19920611,  158
+19920612,  170
+19920613,  182
+19920614,  185
+19920615,  207
+19920616,  168
+19920617,  150
+19920618,  127
+19920619,  135
+19920620,  186
+19920621,  168
+19920622,  153
+19920623,  156
+19920624,  154
+19920625,  168
+19920626,  174
+19920627,  203
+19920628,  217
+19920629,  224
+19920630,  218
+19920701,  200
+19920702,  169
+19920703,  183
+19920704,  171
+19920705,  179
+19920706,  181
+19920707,  168
+19920708,  173
+19920709,  201
+19920710,  163
+19920711,  170
+19920712,  168
+19920713,  161
+19920714,  161
+19920715,  165
+19920716,  206
+19920717,  176
+19920718,  178
+19920719,  213
+19920720,  233
+19920721,  205
+19920722,  170
+19920723,  185
+19920724,  203
+19920725,  189
+19920726,  184
+19920727,  168
+19920728,  163
+19920729,  184
+19920730,  193
+19920731,  197
+19920801,  211
+19920802,  190
+19920803,  190
+19920804,  171
+19920805,  194
+19920806,  181
+19920807,  195
+19920808,  239
+19920809,  250
+19920810,  173
+19920811,  173
+19920812,  165
+19920813,  154
+19920814,  153
+19920815,  158
+19920816,  166
+19920817,  167
+19920818,  158
+19920819,  187
+19920820,  182
+19920821,  181
+19920822,  187
+19920823,  157
+19920824,  166
+19920825,  195
+19920826,  183
+19920827,  200
+19920828,  177
+19920829,  150
+19920830,  137
+19920831,  135
+19920901,  121
+19920902,  140
+19920903,  140
+19920904,  114
+19920905,  113
+19920906,  128
+19920907,  135
+19920908,  125
+19920909,  139
+19920910,  157
+19920911,  156
+19920912,  126
+19920913,  137
+19920914,  141
+19920915,  161
+19920916,  144
+19920917,  132
+19920918,  144
+19920919,  148
+19920920,  158
+19920921,  171
+19920922,  177
+19920923,  139
+19920924,  140
+19920925,  166
+19920926,  172
+19920927,  188
+19920928,  175
+19920929,  152
+19920930,  153
+19921001,  131
+19921002,  118
+19921003,  121
+19921004,  118
+19921005,   88
+19921006,  107
+19921007,  112
+19921008,  115
+19921009,  102
+19921010,   88
+19921011,   91
+19921012,   79
+19921013,   42
+19921014,   63
+19921015,   65
+19921016,   60
+19921017,   55
+19921018,   69
+19921019,   90
+19921020,   68
+19921021,   59
+19921022,   76
+19921023,   73
+19921024,   62
+19921025,   65
+19921026,   66
+19921027,   71
+19921028,   63
+19921029,   64
+19921030,   54
+19921031,   44
+19921101,   61
+19921102,   83
+19921103,   88
+19921104,   85
+19921105,  116
+19921106,  112
+19921107,  104
+19921108,   64
+19921109,   68
+19921110,   89
+19921111,   81
+19921112,   66
+19921113,   50
+19921114,   45
+19921115,   54
+19921116,   71
+19921117,   65
+19921118,   64
+19921119,   73
+19921120,   57
+19921121,   64
+19921122,  120
+19921123,  107
+19921124,  107
+19921125,  106
+19921126,   89
+19921127,   67
+19921128,   64
+19921129,   62
+19921130,  118
+19921201,   81
+19921202,   91
+19921203,   71
+19921204,   47
+19921205,   39
+19921206,   35
+19921207,   56
+19921208,   44
+19921209,   25
+19921210,   35
+19921211,   49
+19921212,   67
+19921213,   66
+19921214,   92
+19921215,   61
+19921216,   62
+19921217,   59
+19921218,   71
+19921219,   69
+19921220,   30
+19921221,   28
+19921222,   31
+19921223,   29
+19921224,   42
+19921225,   12
+19921226,   -6
+19921227,    4
+19921228,  -18
+19921229,  -32
+19921230,  -40
+19921231,  -56
+</textarea>
+<canvas id="mycanvas" width="1000" height="1000"></canvas>
+<script>
+    // obtain data from data/temp list in html
+    var temp_data = document.getElementById("rawdata");
+    // store values split on enter
+    var splitted = temp_data.value.split("\n").slice(1,-1);
+
+    // make variables
+    real_dates = []
+    dates = []
+    temps = []
+    // storing data and temperatures in right format in variables
+    for(i = 0; i < splitted.length; i++){
+        var data = splitted[i].split(",");
+        var date = data[0].slice(0);
+        var temp = data[1].replace(/\s/g,'');
+        var data = date.slice(0,4) + "-" + date.slice(4,6) + "-" + date.slice(6);
+        if(new Date(data).getMonth() != real_dates[real_dates.length-1]){
+            if(real_dates[real_dates.length-1] == new Date(data).getYear() && new Date(data).getMonth() == 0){
+            }
+            else{
+                if(new Date(data).getMonth() ==0){
+                    real_dates.push(new Date(data).getYear());
+                }
+                else{
+                    real_dates.push(new Date(data).getMonth());
+                }
+            }
+        }
+        dates.push((new Date(data)).getTime());
+        temps.push(Number(temp));
+    }
+
+    // convert numeric months to word months
+    date_string_list= ['Feb','Mar','Apr','May','June','July','Aug','Sep','Oct','Nov','Dec'];
+    for(i = 0; i < real_dates.length; i++){
+        if(real_dates[i] < 12){
+            real_dates[i] = date_string_list[(i-1)%12];
+        }
+    }
+
+    // function to make datapoint canvas compatible
+    function createTransform(domain, range){
+ 		var alpha = (range[1] - range[0]) / (domain[1] - domain[0]);
+	    var beta = range[0] - alpha * domain[0];
+	    return function(x){
+		    return alpha * x + beta;
+	    };
+    }
+
+    // create canvas characteristics
+    milli_dates =[];
+    canvas_width = 600;
+    canvas_height = 550;
+    start_canvas_x = 0;
+ 	start_canvas_y = 0;
+ 	end_canvas_y = start_canvas_x + canvas_height;
+ 	end_canvas_x = start_canvas_y + canvas_width;
+ 	border_space = 60;
+    start_graph_x = start_canvas_x + border_space;
+    end_graph_x = end_canvas_x - border_space;
+    start_graph_y = end_canvas_y - border_space;
+    end_graph_y = start_canvas_y + border_space;
+
+    // obtain borders
+    temp_domain = [Math.min(...temps),Math.max(...temps)];
+    temp_range =  [start_graph_x, end_graph_x];
+    data_domain = [dates[0],dates[dates.length - 1]];
+    data_range = [start_graph_y, end_graph_y];
+
+    // store canvas data compatible data
+    transformed_dates = [];
+ 	transformed_temps = [];
+ 	// transform data to canvas compatible data
+ 	var transform_y = createTransform(temp_domain, [start_graph_y, end_graph_y]);
+ 	var transform_x = createTransform(data_domain, [start_graph_x, end_graph_x]);
+ 	for(i = 0; i < temps.length; i++){
+ 	    transformed_temp = transform_y(temps[i]);
+ 	    transformed_date = transform_x(dates[i]);
+ 	    transformed_dates.push(transformed_date);
+ 	    transformed_temps.push(transformed_temp);
+ 	}
+
+    // create canvas
+ 	var canvas = document.getElementById('mycanvas'); // in your HTML this element appears as <canvas id="mycanvas"></canvas>
+    var ctx = canvas.getContext('2d');
+    // make background white
+    ctx.fillStyle = "White"; // sets the color to fill in the rectangle with
+    // set canvas dimensions
+    ctx.fillRect(start_canvas_x, start_canvas_y, canvas_width, canvas_height);
+    // enable writing
+    ctx.beginPath();
+    // set x axis
+    ctx.moveTo(start_canvas_x + border_space, end_canvas_y - border_space);
+    ctx.lineTo(end_canvas_x - border_space, end_canvas_y - border_space);
+    // set y axis
+    ctx.moveTo(start_canvas_x + border_space, end_canvas_y - border_space);
+    ctx.lineTo(start_canvas_x + border_space, start_canvas_y + border_space);
+
+    // draw line graph
+    ctx.moveTo(transformed_dates[0], transformed_temps[0]);
+    for(i = 1; i < dates.length; i++){
+        ctx.lineTo(transformed_dates[i], transformed_temps[i]);
+    }
+
+    // draw lines on x-axis
+    for(i = 0; i <= real_dates.length; i++){
+        ctx.moveTo(start_canvas_x + (end_canvas_x - border_space -( start_canvas_x + border_space))/(real_dates.length/i) + border_space, end_canvas_y - border_space);
+        ctx.lineTo(start_canvas_x + (end_canvas_x - border_space -( start_canvas_x + border_space))/(real_dates.length/i) + border_space - 10, end_canvas_y - border_space +30);
+    }
+
+    //draw lines on y- axis
+    y_height = end_canvas_y - border_space - (start_canvas_y + border_space);
+    temp_div = temp_domain[1]-temp_domain[0];
+    for(i = 0; i < 4; i++){
+        ctx.moveTo(start_canvas_x + border_space , end_canvas_y - border_space - ((y_height/temp_div)*100*i));
+        ctx.lineTo(start_canvas_x + border_space - 15 , end_canvas_y - border_space - ((y_height/temp_div)*100*i));
+    }
+
+    // write months on x axis
+    ctx.font = "15px Arial";
+    ctx.fillStyle="black";
+    for(i = 0; i < real_dates.length; i++){
+        ctx.fillText(real_dates[i],start_canvas_x + (end_canvas_x - border_space -( start_canvas_x + border_space))/(real_dates.length/i) + border_space, end_canvas_y - border_space +20);
+    }
+
+    ctx.fillText("Average temperature in De Bilt(NL)", start_canvas_x + border_space + 10, start_canvas_y + border_space);
+    ctx.fillText("Months", start_canvas_x + border_space + (end_canvas_x - border_space -(start_canvas_x + border_space))/2, end_canvas_y);
+    ctx.fillText("Temp", start_canvas_x , start_canvas_y + 120);
+
+    ctx.stroke();
+
+</script>
+</body>
+</html>
