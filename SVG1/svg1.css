@@ -1,0 +1,18 @@
+/*external css file that colors land tiles in svg1.html
+
+Data Visualisation, SVG
+Chris de Rijcke
+10645012*/
+
+body {
+    background-color: lightblue;
+}
+#ita {
+    fill: red;
+}
+#nld {
+    fill: orange;
+}
+#dui {
+    fill: yellow;
+}
