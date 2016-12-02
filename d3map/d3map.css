@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue ;
+}
+h2 {
+    background-color: lightblue ;
+}
+p {
+   background-color: lightblue ;
+}
+.links{
+     float:right;
+}
+svg{
+    background-image: url('usa_flag.png');
+    /* uncomment for Gif awesomeness */
+    /*background-image: url('usa_flag_gif.gif');*/
+}

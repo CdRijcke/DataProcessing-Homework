@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<!--d3map assignment
+    for DataVisualisation
+
+    Chris de Rijcke
+    10645012
+-->
+<meta charset="utf-8">
+<head>
+    <link rel="stylesheet" type="text/css" href="d3map.css"/>
+    <script src="http://d3js.org/topojson.v1.min.js"></script>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="usa_map.js"></script>
+</head>
+<body>
+
+  <h2>USA: States and populations</h2>
+  <div>
+     Population of states in 2010
+      </div>
+  <div class="links"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Additional State Information</a>
+      </br><a href="http://www.census.gov/prod/cen2010/briefs/c2010br-01.pdf">Data Source</a> </div>
+  </div>
+
+  <div id="container1" style="position: relative; width: 100%; max-height: 450px;"></div>
+
+  <script src="d3map.js"></script>
+
+<canvas id="canvas", width = "600", height = "150">
+</canvas>
+<div>
+    <p>
+        In this map the states are coloured on a scale depending on the population size. The colors have been picked
+        from a light tints to resemble a lower population sizes to darker tints, to resemble higher population sizes.
+        When hovered, the state, along with other features is highlighted in yellow, making it more distinct from the
+        other countries.
+        The background is picked to give this map a bit more of a patriotish feeling, very important since it is
+        a map of America. To increase the patriotic feeling, in the CSS file a part can me uncomment to change the background
+        into a fancy Gif.
+        The overall lightblue background is calming and keeps the focus at the map.
+        Hyperlink above on the right can be used to go to either the source of the data or to reach a page for additional State info.
+
+    </p>
+</div>
+</body>
