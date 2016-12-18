@@ -1,0 +1,781 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2012,2012,2012,2,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,69596598,,,0
+H4,2012,2012,2012,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,256853371,,,0
+H4,2012,2012,2012,2,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,32565468,,,0
+H4,2012,2012,2012,2,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,15772334,,,0
+H4,2012,2012,2012,2,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,104968096,,,0
+H4,2012,2012,2012,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,537447813,,,0
+H4,2012,2012,2012,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1127436210,,,0
+H4,2012,2012,2012,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1759913539,,,0
+H4,2012,2012,2012,2,0,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,17838797,,,0
+H4,2012,2012,2012,2,0,1,Import,64,Bhutan,BTN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,14640332,,,0
+H4,2012,2012,2012,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1187743,,,0
+H4,2012,2012,2012,2,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,88677072,,,0
+H4,2012,2012,2012,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,348150511,,,0
+H4,2012,2012,2012,2,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,519668391,,,0
+H4,2012,2012,2012,2,0,1,Import,112,Belarus,BLR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,420693400,,,0
+H4,2012,2012,2012,2,0,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1058650,,,0
+H4,2012,2012,2012,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2452687534,,,0
+H4,2012,2012,2012,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1041725327,,,0
+H4,2012,2012,2012,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,4107751697,,,0
+H4,2012,2012,2012,2,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,113469231,,,0
+H4,2012,2012,2012,2,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,48482990,,,0
+H4,2012,2012,2012,2,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,255944764,,,0
+H4,2012,2012,2012,2,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,67361882,,,0
+H4,2012,2012,2012,2,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1177276022,,,0
+H4,2012,2012,2012,2,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1237582971,,,0
+H4,2012,2012,2012,2,0,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,94562748,,,0
+H4,2012,2012,2012,2,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,98855265,,,0
+H4,2012,2012,2012,2,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,139663300,,,0
+H4,2012,2012,2012,2,0,1,Import,242,Fiji,FJI,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,30202434,,,0
+H4,2012,2012,2012,2,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,301657366,,,0
+H4,2012,2012,2012,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,5759335550,,,0
+H4,2012,2012,2012,2,0,1,Import,258,French Polynesia,PYF,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,95797965,,,0
+H4,2012,2012,2012,2,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,127529283,,,0
+H4,2012,2012,2012,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,7616721683,,,0
+H4,2012,2012,2012,2,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1385524102,,,0
+H4,2012,2012,2012,2,0,1,Import,304,Greenland,GRL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,22430820,,,0
+H4,2012,2012,2012,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,111066811,,,0
+H4,2012,2012,2012,2,0,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,47847270,,,0
+H4,2012,2012,2012,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,4434942688,,,0
+H4,2012,2012,2012,2,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,633314000,,,0
+H4,2012,2012,2012,2,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,7237632,,,0
+H4,2012,2012,2012,2,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,167190405,,,0
+H4,2012,2012,2012,2,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,635283282,,,0
+H4,2012,2012,2012,2,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,449578000,,,0
+H4,2012,2012,2012,2,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,5882109638,,,0
+H4,2012,2012,2012,2,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,9892928819,,,0
+H4,2012,2012,2012,2,0,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,332445290,,,0
+H4,2012,2012,2012,2,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,398020668,,,0
+H4,2012,2012,2012,2,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2870685710,,,0
+H4,2012,2012,2012,2,0,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,159220579,,,0
+H4,2012,2012,2012,2,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,179725508,,,0
+H4,2012,2012,2012,2,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,238796810,,,0
+H4,2012,2012,2012,2,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,165621538,,,0
+H4,2012,2012,2012,2,0,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,94977112,,,0
+H4,2012,2012,2012,2,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,127949,,,0
+H4,2012,2012,2012,2,0,1,Import,462,Maldives,MDV,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,35436769,,,0
+H4,2012,2012,2012,2,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,64017364,,,0
+H4,2012,2012,2012,2,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,52846497,,,0
+H4,2012,2012,2012,2,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,3547917216,,,0
+H4,2012,2012,2012,2,0,1,Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,84105135,,,0
+H4,2012,2012,2012,2,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,286372050,,,0
+H4,2012,2012,2012,2,0,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,57199878,,,0
+H4,2012,2012,2012,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,4540613273,,,0
+H4,2012,2012,2012,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,138134124,,,0
+H4,2012,2012,2012,2,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,12110754,,,0
+H4,2012,2012,2012,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,193649569,,,0
+H4,2012,2012,2012,2,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,3802251,,,0
+H4,2012,2012,2012,2,0,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,55303723,,,0
+H4,2012,2012,2012,2,0,1,Import,598,Papua New Guinea,PNG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,144430552,,,0
+H4,2012,2012,2012,2,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,6103770,,,0
+H4,2012,2012,2012,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,99579495,,,0
+H4,2012,2012,2012,2,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1656691971,,,0
+H4,2012,2012,2012,2,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1022240027,,,0
+H4,2012,2012,2012,2,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,614995410,,,0
+H4,2012,2012,2012,2,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,7385304481,,,0
+H4,2012,2012,2012,2,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2530700763,,,0
+H4,2012,2012,2012,2,0,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,52825581,,,0
+H4,2012,2012,2012,2,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,809830114,,,0
+H4,2012,2012,2012,2,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,515466844,,,0
+H4,2012,2012,2012,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,141995928,,,0
+H4,2012,2012,2012,2,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,235489301,,,0
+H4,2012,2012,2012,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,744721197,,,0
+H4,2012,2012,2012,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1434669367,,,0
+H4,2012,2012,2012,2,0,1,Import,729,Sudan,SDN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1389629,,,0
+H4,2012,2012,2012,2,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1315136539,,,0
+H4,2012,2012,2012,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,708374288,,,0
+H4,2012,2012,2012,2,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,130765363,,,0
+H4,2012,2012,2012,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1498701285,,,0
+H4,2012,2012,2012,2,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,43414755,,,0
+H4,2012,2012,2012,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,97179080,,,0
+H4,2012,2012,2012,2,0,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1846187,,,0
+H4,2012,2012,2012,2,0,1,Import,807,TFYR of Macedonia,MKD,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,135969868,,,0
+H4,2012,2012,2012,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,5723306728,,,0
+H4,2012,2012,2012,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,5781030009,,,0
+H4,2012,2012,2012,2,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,67800060,,,0
+H4,2012,2012,2012,2,0,1,Import,882,Samoa,WSM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,26422450,,,0
+H4,2012,2012,2012,2,0,1,Import,887,Yemen,YEM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,215905795,,,0
+H4,2012,2012,2012,2,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,12227553,,,0
+H4,2013,2013,2013,2,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,62374249,,,0
+H4,2013,2013,2013,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,253996860,,,0
+H4,2013,2013,2013,2,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,33389362,,,0
+H4,2013,2013,2013,2,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,15181371,,,0
+H4,2013,2013,2013,2,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,55469004,,,0
+H4,2013,2013,2013,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,495198141,,,0
+H4,2013,2013,2013,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1162510122,,,0
+H4,2013,2013,2013,2,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,93497575,,,0
+H4,2013,2013,2013,2,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,268854289,,,0
+H4,2013,2013,2013,2,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,88106697,,,0
+H4,2013,2013,2013,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1885969198,,,0
+H4,2013,2013,2013,2,0,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,21872969,,,0
+H4,2013,2013,2013,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1316899,,,0
+H4,2013,2013,2013,2,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,125261842,,,0
+H4,2013,2013,2013,2,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,13696890,,,0
+H4,2013,2013,2013,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,348739809,,,0
+H4,2013,2013,2013,2,0,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,30800810,,,0
+H4,2013,2013,2013,2,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,434701506,,,0
+H4,2013,2013,2013,2,0,1,Import,112,Belarus,BLR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,310389200,,,0
+H4,2013,2013,2013,2,0,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1722830,,,0
+H4,2013,2013,2013,2,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,13088108,,,0
+H4,2013,2013,2013,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2370093501,,,0
+H4,2013,2013,2013,2,0,1,Import,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,19072297,,,0
+H4,2013,2013,2013,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2534851,,,0
+H4,2013,2013,2013,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1170419589,,,0
+H4,2013,2013,2013,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,5929655818,,,0
+H4,2013,2013,2013,2,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,187357716,,,0
+H4,2013,2013,2013,2,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,55152339,,,0
+H4,2013,2013,2013,2,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,317246690,,,0
+H4,2013,2013,2013,2,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,69707120,,,0
+H4,2013,2013,2013,2,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1196002249,,,0
+H4,2013,2013,2013,2,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1294499060,,,0
+H4,2013,2013,2013,2,0,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,114285458,,,0
+H4,2013,2013,2013,2,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,26007722,,,0
+H4,2013,2013,2013,2,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,108097069,,,0
+H4,2013,2013,2013,2,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,139563685,,,0
+H4,2013,2013,2013,2,0,1,Import,242,Fiji,FJI,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,26315909,,,0
+H4,2013,2013,2013,2,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,290912721,,,0
+H4,2013,2013,2013,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,6006912465,,,0
+H4,2013,2013,2013,2,0,1,Import,258,French Polynesia,PYF,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,97339381,,,0
+H4,2013,2013,2013,2,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,127951354,,,0
+H4,2013,2013,2013,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,8019641644,,,0
+H4,2013,2013,2013,2,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,254838782,,,0
+H4,2013,2013,2013,2,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1382844024,,,0
+H4,2013,2013,2013,2,0,1,Import,304,Greenland,GRL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,22822588,,,0
+H4,2013,2013,2013,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,122285353,,,0
+H4,2013,2013,2013,2,0,1,Import,324,Guinea,GIN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,6033371,,,0
+H4,2013,2013,2013,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,5484498973,,,0
+H4,2013,2013,2013,2,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,575843063,,,0
+H4,2013,2013,2013,2,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,10038921,,,0
+H4,2013,2013,2013,2,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,252339923,,,0
+H4,2013,2013,2013,2,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,704969873,,,0
+H4,2013,2013,2013,2,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,507487000,,,0
+H4,2013,2013,2013,2,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,6111563769,,,0
+H4,2013,2013,2013,2,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,8762419170,,,0
+H4,2013,2013,2013,2,0,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,307409986,,,0
+H4,2013,2013,2013,2,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,428912930,,,0
+H4,2013,2013,2013,2,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2690535841,,,0
+H4,2013,2013,2013,2,0,1,Import,414,Kuwait,KWT,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,570057540,,,0
+H4,2013,2013,2013,2,0,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,160614086,,,0
+H4,2013,2013,2013,2,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,190521402,,,0
+H4,2013,2013,2013,2,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,274220208,,,0
+H4,2013,2013,2013,2,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,175478139,,,0
+H4,2013,2013,2013,2,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,131921,,,0
+H4,2013,2013,2013,2,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,804264505,,,0
+H4,2013,2013,2013,2,0,1,Import,462,Maldives,MDV,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,48686357,,,0
+H4,2013,2013,2013,2,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,65719085,,,0
+H4,2013,2013,2013,2,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,50463046,,,0
+H4,2013,2013,2013,2,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,3957462457,,,0
+H4,2013,2013,2013,2,0,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,952480131,,,0
+H4,2013,2013,2013,2,0,1,Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,24712179,,,0
+H4,2013,2013,2013,2,0,1,Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,94601994,,,0
+H4,2013,2013,2013,2,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,332958012,,,0
+H4,2013,2013,2013,2,0,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,35715939,,,0
+H4,2013,2013,2013,2,0,1,Import,524,Nepal,NPL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1089122,,,0
+H4,2013,2013,2013,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,4645543489,,,0
+H4,2013,2013,2013,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,172409912,,,0
+H4,2013,2013,2013,2,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,12699516,,,0
+H4,2013,2013,2013,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,207753578,,,0
+H4,2013,2013,2013,2,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,4576131,,,0
+H4,2013,2013,2013,2,0,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,74381478,,,0
+H4,2013,2013,2013,2,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,5803200,,,0
+H4,2013,2013,2013,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,115063361,,,0
+H4,2013,2013,2013,2,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1878656445,,,0
+H4,2013,2013,2013,2,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1192732042,,,0
+H4,2013,2013,2013,2,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,377858612,,,0
+H4,2013,2013,2013,2,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,650420197,,,0
+H4,2013,2013,2013,2,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,6748156776,,,0
+H4,2013,2013,2013,2,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,204622,,,0
+H4,2013,2013,2013,2,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2779457341,,,0
+H4,2013,2013,2013,2,0,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,57473489,,,0
+H4,2013,2013,2013,2,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2071392,,,0
+H4,2013,2013,2013,2,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,816431527,,,0
+H4,2013,2013,2013,2,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,534167194,,,0
+H4,2013,2013,2013,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,171930612,,,0
+H4,2013,2013,2013,2,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,252965227,,,0
+H4,2013,2013,2013,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,638811076,,,0
+H4,2013,2013,2013,2,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,7700085,,,0
+H4,2013,2013,2013,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1508995054,,,0
+H4,2013,2013,2013,2,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1396053590,,,0
+H4,2013,2013,2013,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,764892550,,,0
+H4,2013,2013,2013,2,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,129997661,,,0
+H4,2013,2013,2013,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1604824315,,,0
+H4,2013,2013,2013,2,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,34195462,,,0
+H4,2013,2013,2013,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,25275036,,,0
+H4,2013,2013,2013,2,0,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1614019,,,0
+H4,2013,2013,2013,2,0,1,Import,807,TFYR of Macedonia,MKD,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,143933750,,,0
+H4,2013,2013,2013,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,6095731992,,,0
+H4,2013,2013,2013,2,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,6940864,,,0
+H4,2013,2013,2013,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,6021620606,,,0
+H4,2013,2013,2013,2,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,86047138,,,0
+H4,2013,2013,2013,2,0,1,Import,882,Samoa,WSM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,26663737,,,0
+H4,2013,2013,2013,2,0,1,Import,887,Yemen,YEM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,255472741,,,0
+H4,2013,2013,2013,2,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,5255530,,,0
+H4,2014,2014,2014,2,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,61745578,,,0
+H4,2014,2014,2014,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,307500329,,,0
+H4,2014,2014,2014,2,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,34519753,,,0
+H4,2014,2014,2014,2,0,1,Import,24,Angola,AGO,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1125353707,,,0
+H4,2014,2014,2014,2,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,19460509,,,0
+H4,2014,2014,2014,2,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,38262188,,,0
+H4,2014,2014,2014,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,541575729,,,0
+H4,2014,2014,2014,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1260233322,,,0
+H4,2014,2014,2014,2,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,113094396,,,0
+H4,2014,2014,2014,2,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,298568167,,,0
+H4,2014,2014,2014,2,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,84050790,,,0
+H4,2014,2014,2014,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1890151707,,,0
+H4,2014,2014,2014,2,0,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,21128092,,,0
+H4,2014,2014,2014,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1864646,,,0
+H4,2014,2014,2014,2,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,154436846,,,0
+H4,2014,2014,2014,2,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,11743429,,,0
+H4,2014,2014,2014,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,476778314,,,0
+H4,2014,2014,2014,2,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1777947,,,0
+H4,2014,2014,2014,2,0,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,27337316,,,0
+H4,2014,2014,2014,2,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,488380154,,,0
+H4,2014,2014,2014,2,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,3417744,,,0
+H4,2014,2014,2014,2,0,1,Import,112,Belarus,BLR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,249044500,,,0
+H4,2014,2014,2014,2,0,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2576042,,,0
+H4,2014,2014,2014,2,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,4746572,,,0
+H4,2014,2014,2014,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2346485684,,,0
+H4,2014,2014,2014,2,0,1,Import,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,20574760,,,0
+H4,2014,2014,2014,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,3018646,,,0
+H4,2014,2014,2014,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1163218324,,,0
+H4,2014,2014,2014,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,5843857261,,,0
+H4,2014,2014,2014,2,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,242127817,,,0
+H4,2014,2014,2014,2,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,142623930,,,0
+H4,2014,2014,2014,2,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,392278390,,,0
+H4,2014,2014,2014,2,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,80485673,,,0
+H4,2014,2014,2014,2,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1213371460,,,0
+H4,2014,2014,2014,2,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1309775924,,,0
+H4,2014,2014,2014,2,0,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,134073713,,,0
+H4,2014,2014,2014,2,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,21170083,,,0
+H4,2014,2014,2014,2,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,110565247,,,0
+H4,2014,2014,2014,2,0,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1339444,,,0
+H4,2014,2014,2014,2,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,125275964,,,0
+H4,2014,2014,2014,2,0,1,Import,242,Fiji,FJI,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,30526870,,,0
+H4,2014,2014,2014,2,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,288152454,,,0
+H4,2014,2014,2014,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,5925339478,,,0
+H4,2014,2014,2014,2,0,1,Import,258,French Polynesia,PYF,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,99316368,,,0
+H4,2014,2014,2014,2,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,134106897,,,0
+H4,2014,2014,2014,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,8053962008,,,0
+H4,2014,2014,2014,2,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1356438827,,,0
+H4,2014,2014,2014,2,0,1,Import,304,Greenland,GRL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,24026301,,,0
+H4,2014,2014,2014,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,137172501,,,0
+H4,2014,2014,2014,2,0,1,Import,324,Guinea,GIN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,7986635,,,0
+H4,2014,2014,2014,2,0,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,61856200,,,0
+H4,2014,2014,2014,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,6840598638,,,0
+H4,2014,2014,2014,2,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,553949623,,,0
+H4,2014,2014,2014,2,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,16114108,,,0
+H4,2014,2014,2014,2,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,448055004,,,0
+H4,2014,2014,2014,2,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,752131240,,,0
+H4,2014,2014,2014,2,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,428735000,,,0
+H4,2014,2014,2014,2,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,6094262870,,,0
+H4,2014,2014,2014,2,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,73423090,,,0
+H4,2014,2014,2014,2,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,9605655793,,,0
+H4,2014,2014,2014,2,0,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,252621181,,,0
+H4,2014,2014,2014,2,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,429942910,,,0
+H4,2014,2014,2014,2,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,3373275642,,,0
+H4,2014,2014,2014,2,0,1,Import,414,Kuwait,KWT,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,529112655,,,0
+H4,2014,2014,2014,2,0,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,181778616,,,0
+H4,2014,2014,2014,2,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,165074350,,,0
+H4,2014,2014,2014,2,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,260027883,,,0
+H4,2014,2014,2014,2,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,177210843,,,0
+H4,2014,2014,2014,2,0,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,126668280,,,0
+H4,2014,2014,2014,2,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,222764,,,0
+H4,2014,2014,2014,2,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1208514,,,0
+H4,2014,2014,2014,2,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,888752130,,,0
+H4,2014,2014,2014,2,0,1,Import,462,Maldives,MDV,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,48562420,,,0
+H4,2014,2014,2014,2,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,68235949,,,0
+H4,2014,2014,2014,2,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,53760743,,,0
+H4,2014,2014,2014,2,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,4596523449,,,0
+H4,2014,2014,2014,2,0,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1172497650,,,0
+H4,2014,2014,2014,2,0,1,Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,137210550,,,0
+H4,2014,2014,2014,2,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,316294315,,,0
+H4,2014,2014,2014,2,0,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,42416651,,,0
+H4,2014,2014,2014,2,0,1,Import,524,Nepal,NPL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1131387,,,0
+H4,2014,2014,2014,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,4684966261,,,0
+H4,2014,2014,2014,2,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,42797331,,,0
+H4,2014,2014,2014,2,0,1,Import,540,New Caledonia,NCL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,49530364,,,0
+H4,2014,2014,2014,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,215498668,,,0
+H4,2014,2014,2014,2,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,15187312,,,0
+H4,2014,2014,2014,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,185583120,,,0
+H4,2014,2014,2014,2,0,1,Import,585,Palau,PLW,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,5208406,,,0
+H4,2014,2014,2014,2,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,5144773,,,0
+H4,2014,2014,2014,2,0,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,86876241,,,0
+H4,2014,2014,2014,2,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,5963611,,,0
+H4,2014,2014,2014,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,116535057,,,0
+H4,2014,2014,2014,2,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1820489281,,,0
+H4,2014,2014,2014,2,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1274734765,,,0
+H4,2014,2014,2014,2,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,423996803,,,0
+H4,2014,2014,2014,2,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,725203894,,,0
+H4,2014,2014,2014,2,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,5527832689,,,0
+H4,2014,2014,2014,2,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,260653,,,0
+H4,2014,2014,2014,2,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,25121840,,,0
+H4,2014,2014,2014,2,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2554244352,,,0
+H4,2014,2014,2014,2,0,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,77411259,,,0
+H4,2014,2014,2014,2,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2956598,,,0
+H4,2014,2014,2014,2,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,898467275,,,0
+H4,2014,2014,2014,2,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,493434022,,,0
+H4,2014,2014,2014,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,231879386,,,0
+H4,2014,2014,2014,2,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,261543191,,,0
+H4,2014,2014,2014,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,563623747,,,0
+H4,2014,2014,2014,2,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,9345480,,,0
+H4,2014,2014,2014,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1511226969,,,0
+H4,2014,2014,2014,2,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1281885454,,,0
+H4,2014,2014,2014,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,779960523,,,0
+H4,2014,2014,2014,2,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,159121066,,,0
+H4,2014,2014,2014,2,0,1,Import,776,Tonga,TON,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,19187988,,,0
+H4,2014,2014,2014,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1614088900,,,0
+H4,2014,2014,2014,2,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,30762885,,,0
+H4,2014,2014,2014,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,6376628,,,0
+H4,2014,2014,2014,2,0,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1506112,,,0
+H4,2014,2014,2014,2,0,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,238898380,,,0
+H4,2014,2014,2014,2,0,1,Import,807,TFYR of Macedonia,MKD,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,130762162,,,0
+H4,2014,2014,2014,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1622831704,,,0
+H4,2014,2014,2014,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,6485387835,,,0
+H4,2014,2014,2014,2,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,13468325,,,0
+H4,2014,2014,2014,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,8433931340,,,0
+H4,2014,2014,2014,2,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,94177177,,,0
+H4,2014,2014,2014,2,0,1,Import,882,Samoa,WSM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,26536811,,,0
+H4,2014,2014,2014,2,0,1,Import,887,Yemen,YEM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,256273778,,,0
+H4,2014,2014,2014,2,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,6154015,,,0
+H4,2015,2015,2015,2,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,57378729,,,0
+H4,2015,2015,2015,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,259836878,,,0
+H4,2015,2015,2015,2,0,1,Import,24,Angola,AGO,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,654812706,,,0
+H4,2015,2015,2015,2,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,19858443,,,0
+H4,2015,2015,2015,2,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,42389606,,,0
+H4,2015,2015,2015,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,492521307,,,0
+H4,2015,2015,2015,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,992369870,,,0
+H4,2015,2015,2015,2,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,103748439,,,0
+H4,2015,2015,2015,2,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,241015934,,,0
+H4,2015,2015,2015,2,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,60572768,,,0
+H4,2015,2015,2015,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1475904636,,,0
+H4,2015,2015,2015,2,0,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,20733800,,,0
+H4,2015,2015,2015,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,3124950,,,0
+H4,2015,2015,2015,2,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,145677439,,,0
+H4,2015,2015,2015,2,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,8824219,,,0
+H4,2015,2015,2015,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,331032981,,,0
+H4,2015,2015,2015,2,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2403138,,,0
+H4,2015,2015,2015,2,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,9095539,,,0
+H4,2015,2015,2015,2,0,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,32134180,,,0
+H4,2015,2015,2015,2,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,378025516,,,0
+H4,2015,2015,2015,2,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,3105605,,,0
+H4,2015,2015,2015,2,0,1,Import,112,Belarus,BLR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,44918100,,,0
+H4,2015,2015,2015,2,0,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,3802509,,,0
+H4,2015,2015,2015,2,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2883859,,,0
+H4,2015,2015,2015,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2243291739,,,0
+H4,2015,2015,2015,2,0,1,Import,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,17973984,,,0
+H4,2015,2015,2015,2,0,1,Import,136,Cayman Isds,CYM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,25873558,,,0
+H4,2015,2015,2015,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,3003616,,,0
+H4,2015,2015,2015,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1076618585,,,0
+H4,2015,2015,2015,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,6798206667,,,0
+H4,2015,2015,2015,2,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,173959671,,,0
+H4,2015,2015,2015,2,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,78621228,,,0
+H4,2015,2015,2015,2,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,343250516,,,0
+H4,2015,2015,2015,2,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,65960614,,,0
+H4,2015,2015,2015,2,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1047420703,,,0
+H4,2015,2015,2015,2,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,225820362,,,0
+H4,2015,2015,2015,2,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1102563809,,,0
+H4,2015,2015,2015,2,0,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,156928765,,,0
+H4,2015,2015,2015,2,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,12561581,,,0
+H4,2015,2015,2015,2,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,123803760,,,0
+H4,2015,2015,2015,2,0,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1546906,,,0
+H4,2015,2015,2015,2,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,101510141,,,0
+H4,2015,2015,2015,2,0,1,Import,242,Fiji,FJI,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,23281394,,,0
+H4,2015,2015,2015,2,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,236254608,,,0
+H4,2015,2015,2015,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,4780988681,,,0
+H4,2015,2015,2015,2,0,1,Import,258,French Polynesia,PYF,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,84882899,,,0
+H4,2015,2015,2015,2,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,97588726,,,0
+H4,2015,2015,2015,2,0,1,Import,275,State of Palestine,PSE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,48057962,,,0
+H4,2015,2015,2015,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,6709402343,,,0
+H4,2015,2015,2015,2,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1105909347,,,0
+H4,2015,2015,2015,2,0,1,Import,304,Greenland,GRL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,21550969,,,0
+H4,2015,2015,2015,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,173936594,,,0
+H4,2015,2015,2015,2,0,1,Import,324,Guinea,GIN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,12210842,,,0
+H4,2015,2015,2015,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,5297160366,,,0
+H4,2015,2015,2015,2,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,402664489,,,0
+H4,2015,2015,2015,2,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,14861153,,,0
+H4,2015,2015,2015,2,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,696098937,,,0
+H4,2015,2015,2015,2,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,455192000,,,0
+H4,2015,2015,2015,2,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,4938615588,,,0
+H4,2015,2015,2015,2,0,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,85566171,,,0
+H4,2015,2015,2015,2,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,72087397,,,0
+H4,2015,2015,2015,2,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,8596791338,,,0
+H4,2015,2015,2015,2,0,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,200002231,,,0
+H4,2015,2015,2015,2,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,452182336,,,0
+H4,2015,2015,2015,2,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,3673067474,,,0
+H4,2015,2015,2015,2,0,1,Import,414,Kuwait,KWT,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,556493422,,,0
+H4,2015,2015,2015,2,0,1,Import,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,46962843,,,0
+H4,2015,2015,2015,2,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,131389712,,,0
+H4,2015,2015,2015,2,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,207077272,,,0
+H4,2015,2015,2015,2,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,151018517,,,0
+H4,2015,2015,2015,2,0,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,121458011,,,0
+H4,2015,2015,2015,2,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,233901,,,0
+H4,2015,2015,2015,2,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1093301,,,0
+H4,2015,2015,2015,2,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,861934648,,,0
+H4,2015,2015,2015,2,0,1,Import,462,Maldives,MDV,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,48694376,,,0
+H4,2015,2015,2015,2,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,59249965,,,0
+H4,2015,2015,2015,2,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,52400262,,,0
+H4,2015,2015,2015,2,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,3820475193,,,0
+H4,2015,2015,2015,2,0,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1196520096,,,0
+H4,2015,2015,2015,2,0,1,Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,18030906,,,0
+H4,2015,2015,2015,2,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,26145533,,,0
+H4,2015,2015,2015,2,0,1,Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,76242080,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,18344792,,,0
+H4,2015,2015,2015,2,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,327456855,,,0
+H4,2015,2015,2015,2,0,1,Import,524,Nepal,NPL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,701523,,,0
+H4,2015,2015,2015,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,4163248996,,,0
+H4,2015,2015,2015,2,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,44253235,,,0
+H4,2015,2015,2015,2,0,1,Import,540,New Caledonia,NCL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,42689297,,,0
+H4,2015,2015,2015,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,186907496,,,0
+H4,2015,2015,2015,2,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,20969368,,,0
+H4,2015,2015,2015,2,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,6502233,,,0
+H4,2015,2015,2015,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,186306181,,,0
+H4,2015,2015,2015,2,0,1,Import,585,Palau,PLW,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,5339341,,,0
+H4,2015,2015,2015,2,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,4814980,,,0
+H4,2015,2015,2015,2,0,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,90102854,,,0
+H4,2015,2015,2015,2,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,3740933,,,0
+H4,2015,2015,2015,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,123234709,,,0
+H4,2015,2015,2015,2,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1521849630,,,0
+H4,2015,2015,2015,2,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1032681392,,,0
+H4,2015,2015,2015,2,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,462729798,,,0
+H4,2015,2015,2015,2,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,631210561,,,0
+H4,2015,2015,2015,2,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,3106052610,,,0
+H4,2015,2015,2015,2,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,258911,,,0
+H4,2015,2015,2015,2,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2799727766,,,0
+H4,2015,2015,2015,2,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,8409265,,,0
+H4,2015,2015,2015,2,0,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,68908010,,,0
+H4,2015,2015,2015,2,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2292981,,,0
+H4,2015,2015,2015,2,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,837054499,,,0
+H4,2015,2015,2015,2,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,402487636,,,0
+H4,2015,2015,2015,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,301533514,,,0
+H4,2015,2015,2015,2,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,234540586,,,0
+H4,2015,2015,2015,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,449388304,,,0
+H4,2015,2015,2015,2,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,7362361,,,0
+H4,2015,2015,2015,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1338476064,,,0
+H4,2015,2015,2015,2,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1083207273,,,0
+H4,2015,2015,2015,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,693003296,,,0
+H4,2015,2015,2015,2,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,174100901,,,0
+H4,2015,2015,2015,2,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,14087538,,,0
+H4,2015,2015,2015,2,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,16969522,,,0
+H4,2015,2015,2015,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,106851705,,,0
+H4,2015,2015,2015,2,0,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1409545,,,0
+H4,2015,2015,2015,2,0,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,99338438,,,0
+H4,2015,2015,2015,2,0,1,Import,807,TFYR of Macedonia,MKD,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,110786959,,,0
+H4,2015,2015,2015,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2013832323,,,0
+H4,2015,2015,2015,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,5855264118,,,0
+H4,2015,2015,2015,2,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,6736075,,,0
+H4,2015,2015,2015,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,9356087892,,,0
+H4,2015,2015,2015,2,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,146775,,,0
+H4,2015,2015,2015,2,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,87406662,,,0
+H4,2015,2015,2015,2,0,1,Import,882,Samoa,WSM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,23780769,,,0
+H4,2015,2015,2015,2,0,1,Import,887,Yemen,YEM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,122580401,,,0
+H4,2015,2015,2015,2,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,5213793,,,0
+H3,2011,2011,2011,2,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,74824320,,,0
+H3,2011,2011,2011,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,164525132,,,0
+H3,2011,2011,2011,2,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,35098183,,,0
+H3,2011,2011,2011,2,0,1,Import,24,Angola,AGO,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,698479445,,,0
+H3,2011,2011,2011,2,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,22511451,,,0
+H3,2011,2011,2011,2,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,189847580,,,0
+H3,2011,2011,2011,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,488533782,,,0
+H3,2011,2011,2011,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1156481928,,,0
+H3,2011,2011,2011,2,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,92060292,,,0
+H3,2011,2011,2011,2,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,194635120,,,0
+H3,2011,2011,2011,2,0,1,Import,50,Bangladesh,BGD,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,573181,,,0
+H3,2011,2011,2011,2,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,88465479,,,0
+H3,2011,2011,2011,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1821208203,,,0
+H3,2011,2011,2011,2,0,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,15065885,,,0
+H3,2011,2011,2011,2,0,1,Import,64,Bhutan,BTN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,10144265,,,0
+H3,2011,2011,2011,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1800082,,,0
+H3,2011,2011,2011,2,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,91887755,,,0
+H3,2011,2011,2011,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,292904947,,,0
+H3,2011,2011,2011,2,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1520183,,,0
+H3,2011,2011,2011,2,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,542660351,,,0
+H3,2011,2011,2011,2,0,1,Import,112,Belarus,BLR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,291437700,,,0
+H3,2011,2011,2011,2,0,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,960661,,,0
+H3,2011,2011,2011,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2119201531,,,0
+H3,2011,2011,2011,2,0,1,Import,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,18935231,,,0
+H3,2011,2011,2011,2,0,1,Import,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,361955,,,0
+H3,2011,2011,2011,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,4667597,,,0
+H3,2011,2011,2011,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1010989134,,,0
+H3,2011,2011,2011,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,3411421726,,,0
+H3,2011,2011,2011,2,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,76557924,,,0
+H3,2011,2011,2011,2,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,37715315,,,0
+H3,2011,2011,2011,2,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,229111247,,,0
+H3,2011,2011,2011,2,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,64888068,,,0
+H3,2011,2011,2011,2,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1118549219,,,0
+H3,2011,2011,2011,2,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1265202127,,,0
+H3,2011,2011,2011,2,0,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,94863261,,,0
+H3,2011,2011,2011,2,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,32704869,,,0
+H3,2011,2011,2011,2,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,93762398,,,0
+H3,2011,2011,2011,2,0,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,297872,,,0
+H3,2011,2011,2011,2,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,143668737,,,0
+H3,2011,2011,2011,2,0,1,Import,242,Fiji,FJI,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,26553078,,,0
+H3,2011,2011,2011,2,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,262286025,,,0
+H3,2011,2011,2011,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,5842620796,,,0
+H3,2011,2011,2011,2,0,1,Import,258,French Polynesia,PYF,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,91380335,,,0
+H3,2011,2011,2011,2,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,111293232,,,0
+H3,2011,2011,2011,2,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2157801,,,0
+H3,2011,2011,2011,2,0,1,Import,275,State of Palestine,PSE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,28618682,,,0
+H3,2011,2011,2011,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,8128133658,,,0
+H3,2011,2011,2011,2,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,223144155,,,0
+H3,2011,2011,2011,2,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1475120555,,,0
+H3,2011,2011,2011,2,0,1,Import,304,Greenland,GRL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,23679718,,,0
+H3,2011,2011,2011,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,94519214,,,0
+H3,2011,2011,2011,2,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1559199,,,0
+H3,2011,2011,2011,2,0,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,43827515,,,0
+H3,2011,2011,2011,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,5044405728,,,0
+H3,2011,2011,2011,2,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,600443000,,,0
+H3,2011,2011,2011,2,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,9466404,,,0
+H3,2011,2011,2011,2,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,331854077,,,0
+H3,2011,2011,2011,2,0,1,Import,364,Iran,IRN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,988192919,,,0
+H3,2011,2011,2011,2,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,619466156,,,0
+H3,2011,2011,2011,2,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,482725000,,,0
+H3,2011,2011,2011,2,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,6352468183,,,0
+H3,2011,2011,2011,2,0,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,70417757,,,0
+H3,2011,2011,2011,2,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,78905616,,,0
+H3,2011,2011,2011,2,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,10320110938,,,0
+H3,2011,2011,2011,2,0,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,254903476,,,0
+H3,2011,2011,2011,2,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,329897613,,,0
+H3,2011,2011,2011,2,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,3454807280,,,0
+H3,2011,2011,2011,2,0,1,Import,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,69909934,,,0
+H3,2011,2011,2011,2,0,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,174810756,,,0
+H3,2011,2011,2011,2,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,194284751,,,0
+H3,2011,2011,2011,2,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,226201257,,,0
+H3,2011,2011,2011,2,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,170115962,,,0
+H3,2011,2011,2011,2,0,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,85476421,,,0
+H3,2011,2011,2011,2,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,3018656,,,0
+H3,2011,2011,2011,2,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,102771,,,0
+H3,2011,2011,2011,2,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,660574805,,,0
+H3,2011,2011,2011,2,0,1,Import,462,Maldives,MDV,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,31870949,,,0
+H3,2011,2011,2011,2,0,1,Import,466,Mali,MLI,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,61216,,,0
+H3,2011,2011,2011,2,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,69294798,,,0
+H3,2011,2011,2011,2,0,1,Import,478,Mauritania,MRT,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,10963160,,,0
+H3,2011,2011,2011,2,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,52759043,,,0
+H3,2011,2011,2011,2,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,3423507144,,,0
+H3,2011,2011,2011,2,0,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,928469293,,,0
+H3,2011,2011,2011,2,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,30824983,,,0
+H3,2011,2011,2011,2,0,1,Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,79653435,,,0
+H3,2011,2011,2011,2,0,1,Import,500,Montserrat,MSR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,791684,,,0
+H3,2011,2011,2011,2,0,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,87023961,,,0
+H3,2011,2011,2011,2,0,1,Import,524,Nepal,NPL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,920545,,,0
+H3,2011,2011,2011,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,4597797879,,,0
+H3,2011,2011,2011,2,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,38263169,,,0
+H3,2011,2011,2011,2,0,1,Import,540,New Caledonia,NCL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,50608402,,,0
+H3,2011,2011,2011,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,135302982,,,0
+H3,2011,2011,2011,2,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,10699009,,,0
+H3,2011,2011,2011,2,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,230978,,,0
+H3,2011,2011,2011,2,0,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,264100,,,0
+H3,2011,2011,2011,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,139965445,,,0
+H3,2011,2011,2011,2,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,6846095,,,0
+H3,2011,2011,2011,2,0,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,47019134,,,0
+H3,2011,2011,2011,2,0,1,Import,598,Papua New Guinea,PNG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,127671371,,,0
+H3,2011,2011,2011,2,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2175608,,,0
+H3,2011,2011,2011,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,80985180,,,0
+H3,2011,2011,2011,2,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1709106131,,,0
+H3,2011,2011,2011,2,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1109706991,,,0
+H3,2011,2011,2011,2,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,612944205,,,0
+H3,2011,2011,2011,2,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,6189995758,,,0
+H3,2011,2011,2011,2,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,34622,,,0
+H3,2011,2011,2011,2,0,1,Import,659,Saint Kitts and Nevis,KNA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,8209989,,,0
+H3,2011,2011,2011,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,13934205,,,0
+H3,2011,2011,2011,2,0,1,Import,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2478118,,,0
+H3,2011,2011,2011,2,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2529804496,,,0
+H3,2011,2011,2011,2,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,11283317,,,0
+H3,2011,2011,2011,2,0,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,30549923,,,0
+H3,2011,2011,2011,2,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1432670,,,0
+H3,2011,2011,2011,2,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,787848878,,,0
+H3,2011,2011,2011,2,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,527203227,,,0
+H3,2011,2011,2011,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,154075159,,,0
+H3,2011,2011,2011,2,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,238196069,,,0
+H3,2011,2011,2011,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,698753851,,,0
+H3,2011,2011,2011,2,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,14338900,,,0
+H3,2011,2011,2011,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1578464699,,,0
+H3,2011,2011,2011,2,0,1,Import,736,Fmr Sudan,SDN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,471368,,,0
+H3,2011,2011,2011,2,0,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,26093829,,,0
+H3,2011,2011,2011,2,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1238040579,,,0
+H3,2011,2011,2011,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,783116292,,,0
+H3,2011,2011,2011,2,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,90822707,,,0
+H3,2011,2011,2011,2,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,11684622,,,0
+H3,2011,2011,2011,2,0,1,Import,776,Tonga,TON,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,17577529,,,0
+H3,2011,2011,2011,2,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,17951424,,,0
+H3,2011,2011,2011,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,513600334,,,0
+H3,2011,2011,2011,2,0,1,Import,796,Turks and Caicos Isds,TCA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,10227400,,,0
+H3,2011,2011,2011,2,0,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1256251,,,0
+H3,2011,2011,2011,2,0,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,292133191,,,0
+H3,2011,2011,2011,2,0,1,Import,807,TFYR of Macedonia,MKD,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,131060108,,,0
+H3,2011,2011,2011,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,947386459,,,0
+H3,2011,2011,2011,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,6411736411,,,0
+H3,2011,2011,2011,2,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,7737670,,,0
+H3,2011,2011,2011,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,5258149297,,,0
+H3,2011,2011,2011,2,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,269503,,,0
+H3,2011,2011,2011,2,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,57437423,,,0
+H3,2011,2011,2011,2,0,1,Import,882,Samoa,WSM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,24488665,,,0
+H3,2011,2011,2011,2,0,1,Import,887,Yemen,YEM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,173097923,,,0
+H3,2011,2011,2011,2,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,6221720,,,0
+H3,2012,2012,2012,2,0,1,Import,24,Angola,AGO,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1067544674,,,0
+H3,2012,2012,2012,2,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,93295999,,,0
+H3,2012,2012,2012,2,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,203617121,,,0
+H3,2012,2012,2012,2,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,88696487,,,0
+H3,2012,2012,2012,2,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1286265,,,0
+H3,2012,2012,2012,2,0,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,25682164,,,0
+H3,2012,2012,2012,2,0,1,Import,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,18948915,,,0
+H3,2012,2012,2012,2,0,1,Import,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,774732,,,0
+H3,2012,2012,2012,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2937224,,,0
+H3,2012,2012,2012,2,0,1,Import,212,Dominica,DMA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,6714646,,,0
+H3,2012,2012,2012,2,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,30478536,,,0
+H3,2012,2012,2012,2,0,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,367521,,,0
+H3,2012,2012,2012,2,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1739514,,,0
+H3,2012,2012,2012,2,0,1,Import,275,State of Palestine,PSE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,41880006,,,0
+H3,2012,2012,2012,2,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,242026318,,,0
+H3,2012,2012,2012,2,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2512183,,,0
+H3,2012,2012,2012,2,0,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,72932017,,,0
+H3,2012,2012,2012,2,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,77252631,,,0
+H3,2012,2012,2012,2,0,1,Import,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,74232299,,,0
+H3,2012,2012,2012,2,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,529833,,,0
+H3,2012,2012,2012,2,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,712039633,,,0
+H3,2012,2012,2012,2,0,1,Import,466,Mali,MLI,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,93716,,,0
+H3,2012,2012,2012,2,0,1,Import,478,Mauritania,MRT,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,11945409,,,0
+H3,2012,2012,2012,2,0,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,871904321,,,0
+H3,2012,2012,2012,2,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,41770228,,,0
+H3,2012,2012,2012,2,0,1,Import,500,Montserrat,MSR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,853600,,,0
+H3,2012,2012,2012,2,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,25108730,,,0
+H3,2012,2012,2012,2,0,1,Import,524,Nepal,NPL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1027866,,,0
+H3,2012,2012,2012,2,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,38875799,,,0
+H3,2012,2012,2012,2,0,1,Import,540,New Caledonia,NCL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,49347941,,,0
+H3,2012,2012,2012,2,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,632677,,,0
+H3,2012,2012,2012,2,0,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2979655,,,0
+H3,2012,2012,2012,2,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,119595,,,0
+H3,2012,2012,2012,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,14863120,,,0
+H3,2012,2012,2012,2,0,1,Import,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2614535,,,0
+H3,2012,2012,2012,2,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,11542116,,,0
+H3,2012,2012,2012,2,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1888132,,,0
+H3,2012,2012,2012,2,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,15536597,,,0
+H3,2012,2012,2012,2,0,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,29556791,,,0
+H3,2012,2012,2012,2,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,11666151,,,0
+H3,2012,2012,2012,2,0,1,Import,776,Tonga,TON,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,19986221,,,0
+H3,2012,2012,2012,2,0,1,Import,796,Turks and Caicos Isds,TCA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,11688442,,,0
+H3,2012,2012,2012,2,0,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,721944108,,,0
+H3,2012,2012,2012,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1355711272,,,0
+H3,2012,2012,2012,2,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,6477186,,,0
+H3,2012,2012,2012,2,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,344898,,,0
+H3,2013,2013,2013,2,0,1,Import,24,Angola,AGO,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,868762673,,,0
+H3,2013,2013,2013,2,0,1,Import,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,19059246,,,0
+H3,2013,2013,2013,2,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1436680,,,0
+H3,2013,2013,2013,2,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,34788,,,0
+H3,2013,2013,2013,2,0,1,Import,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,490475,,,0
+H3,2013,2013,2013,2,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,230577318,,,0
+H3,2013,2013,2013,2,0,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,3738081,,,0
+H3,2013,2013,2013,2,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1162881,,,0
+H3,2013,2013,2013,2,0,1,Import,275,State of Palestine,PSE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,49191991,,,0
+H3,2013,2013,2013,2,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1803292,,,0
+H3,2013,2013,2013,2,0,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,78798472,,,0
+H3,2013,2013,2013,2,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,70797464,,,0
+H3,2013,2013,2013,2,0,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,885635,,,0
+H3,2013,2013,2013,2,0,1,Import,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,82173912,,,0
+H3,2013,2013,2013,2,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1129302,,,0
+H3,2013,2013,2013,2,0,1,Import,478,Mauritania,MRT,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,16709187,,,0
+H3,2013,2013,2013,2,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,45570101,,,0
+H3,2013,2013,2013,2,0,1,Import,500,Montserrat,MSR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,860193,,,0
+H3,2013,2013,2013,2,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,33359640,,,0
+H3,2013,2013,2013,2,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,40154065,,,0
+H3,2013,2013,2013,2,0,1,Import,540,New Caledonia,NCL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,52709488,,,0
+H3,2013,2013,2013,2,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2505480,,,0
+H3,2013,2013,2013,2,0,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,17432857,,,0
+H3,2013,2013,2013,2,0,1,Import,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2970141,,,0
+H3,2013,2013,2013,2,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,10622112,,,0
+H3,2013,2013,2013,2,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,12399626,,,0
+H3,2013,2013,2013,2,0,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,27107368,,,0
+H3,2013,2013,2013,2,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,11536854,,,0
+H3,2013,2013,2013,2,0,1,Import,776,Tonga,TON,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,18549256,,,0
+H3,2013,2013,2013,2,0,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,628492583,,,0
+H3,2013,2013,2013,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1214163293,,,0
+H3,2013,2013,2013,2,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,234487,,,0
+H3,2014,2014,2014,2,0,1,Import,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,19905912,,,0
+H3,2014,2014,2014,2,0,1,Import,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2784460,,,0
+H3,2014,2014,2014,2,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,243488366,,,0
+H3,2014,2014,2014,2,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2905023,,,0
+H3,2014,2014,2014,2,0,1,Import,275,State of Palestine,PSE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,36653367,,,0
+H3,2014,2014,2014,2,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1162049,,,0
+H3,2014,2014,2014,2,0,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,91186372,,,0
+H3,2014,2014,2014,2,0,1,Import,478,Mauritania,MRT,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,13517343,,,0
+H3,2014,2014,2014,2,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,54249897,,,0
+H3,2014,2014,2014,2,0,1,Import,500,Montserrat,MSR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,901063,,,0
+H3,2014,2014,2014,2,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,47312890,,,0
+H3,2014,2014,2014,2,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2272938,,,0
+H3,2014,2014,2014,2,0,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,282461,,,0
+H3,2014,2014,2014,2,0,1,Import,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,4989563,,,0
+H3,2014,2014,2014,2,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,8979172,,,0
+H3,2014,2014,2014,2,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,13799047,,,0
+H3,2014,2014,2014,2,0,1,Import,694,Sierra Leone,SLE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,7851940,,,0
+H3,2014,2014,2014,2,0,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,27711245,,,0
+H3,2014,2014,2014,2,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,12223732,,,0
+H3,2014,2014,2014,2,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,301899,,,0
+H3,2015,2015,2015,2,0,1,Import,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,18768145,,,0
+H3,2015,2015,2015,2,0,1,Import,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2462756,,,0
+H3,2015,2015,2015,2,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1070302,,,0
+H3,2015,2015,2015,2,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,40778745,,,0
+H3,2015,2015,2015,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,13241630,,,0
+H3,2015,2015,2015,2,0,1,Import,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,3692904,,,0
+H3,2015,2015,2015,2,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,15678276,,,0
+H3,2015,2015,2015,2,0,1,Import,694,Sierra Leone,SLE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2760858,,,0
+H3,2015,2015,2015,2,0,1,Import,729,Sudan,SDN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,4312646,,,0
+H2,2011,2011,2011,2,0,1,Import,4,Afghanistan,AFG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,69573784,,,0
+H2,2011,2011,2011,2,0,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,24361878,,,0
+H2,2011,2011,2011,2,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,16280411,,,0
+H2,2011,2011,2011,2,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,32049,,,0
+H2,2011,2011,2011,2,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,7982490,,,0
+H2,2011,2011,2011,2,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,13320364,,,0
+H2,2011,2011,2011,2,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,67089777,,,0
+H2,2011,2011,2011,2,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,193609967,,,0
+H2,2011,2011,2011,2,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,2068267,,,0
+H2,2011,2011,2011,2,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,46197659,,,0
+H2,2011,2011,2011,2,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,61418714,,,0
+H2,2011,2011,2011,2,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,16662000,,,0
+H2,2011,2011,2011,2,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,275556331,,,0
+H2,2011,2011,2011,2,0,1,Import,548,Vanuatu,VUT,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,5820643,,,0
+H2,2011,2011,2011,2,0,1,Import,583,FS Micronesia,FSM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,8074131,,,0
+H2,2011,2011,2011,2,0,1,Import,585,Palau,PLW,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,4128896,,,0
+H2,2011,2011,2011,2,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,455033696,,,0
+H2,2011,2011,2011,2,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,14916368,,,0
+H2,2011,2011,2011,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1362295089,,,0
+H2,2011,2011,2011,2,0,1,Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1009377857,,,0
+H2,2012,2012,2012,2,0,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,23499979,,,0
+H2,2012,2012,2012,2,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,14108392,,,0
+H2,2012,2012,2012,2,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,23436,,,0
+H2,2012,2012,2012,2,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,8719847,,,0
+H2,2012,2012,2012,2,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,8330415,,,0
+H2,2012,2012,2012,2,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,92665483,,,0
+H2,2012,2012,2012,2,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,219166562,,,0
+H2,2012,2012,2012,2,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1997713,,,0
+H2,2012,2012,2012,2,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,37245826,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,26439464,,,0
+H2,2012,2012,2012,2,0,1,Import,583,FS Micronesia,FSM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,9320613,,,0
+H2,2012,2012,2012,2,0,1,Import,585,Palau,PLW,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,4561972,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,507852548,,,0
+H2,2012,2012,2012,2,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,382259245,,,0
+H2,2012,2012,2012,2,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,13997893,,,0
+H2,2012,2012,2012,2,0,1,Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1240866370,,,0
+H2,2013,2013,2013,2,0,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,24402791,,,0
+H2,2013,2013,2013,2,0,1,Import,136,Cayman Isds,CYM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,24663485,,,0
+H2,2013,2013,2013,2,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,7023270,,,0
+H2,2013,2013,2013,2,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,132616304,,,0
+H2,2013,2013,2013,2,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1928504,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,56085883,,,0
+H2,2013,2013,2013,2,0,1,Import,583,FS Micronesia,FSM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,8282808,,,0
+H2,2013,2013,2013,2,0,1,Import,585,Palau,PLW,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,4634082,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,591708602,,,0
+H2,2013,2013,2013,2,0,1,Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,1387266292,,,0
+H2,2014,2014,2014,2,0,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,28517123,,,0
+H2,2014,2014,2014,2,0,1,Import,368,Iraq,IRQ,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,166954401,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,50752720,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,876208088,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,70598007,,,0
+H2,2015,2015,2015,2,0,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,28321952,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,830443488,,,0
+H1,2011,2011,2011,2,0,1,Import,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,17284415,,,0
+H1,2011,2011,2011,2,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,7229082,,,0
+H1,2012,2012,2012,2,0,1,Import,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,19917890,,,0
+H1,2012,2012,2012,2,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,7944272,,,0
+H1,2013,2013,2013,2,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,9965292,,,0
+H1,2014,2014,2014,2,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,9962507,,,0
+H0,2011,2011,2011,2,0,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,5281495,,,0

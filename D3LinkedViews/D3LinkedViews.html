@@ -1,0 +1,40 @@
+<meta charset="utf-8">
+<head>
+    <!--<link rel="stylesheet" type="text/css" href="d3map.css"/>-->
+    <link rel="stylesheet" type="text/css" href="D3LinkedViews.css"/>
+    <script src="http://d3js.org/topojson.v1.min.js"></script>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="map_linkedviews.js"></script>
+</head>
+<body>
+
+  <h2>World meat import</h2>
+  <div>
+     Meat import per country in US$ in 2015
+      </div>
+  <div class="links"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Additional State Information</a>
+      </br><a href="http://www.census.gov/prod/cen2010/briefs/c2010br-01.pdf">Data Source</a> </div>
+  </div>
+
+
+
+  <svg id="barchart", width = "1200", height = "450"></svg>
+
+  <div id="container1" style="position: relative; width: 100%; max-height: 450px;"></div>
+
+  <script src="D3LinkedViews.js"></script>
+
+  <svg id="grouped_barchart"style="position: relative;"></svg>
+
+</canvas>
+<div>
+    <p>
+        In this map the states are coloured on a scale depending on their meat import in US$ in 2015.
+        Darker colours represent higher values of meat import. When hovered, the exact import value becomes clear.
+        Next to the country that highlights when hovered, their corresponding bar in the top barchart highlights as well,
+        to put their value in perspective. When a bar in the top barchart is being hovered, their corresponding country
+        highlights as well in the map When to countries are clicked, a grouped barchart is made under the map, showing the
+        growth of each country in the years 2011 to 2015. Note that this function is not yet fully operational since the same barchart is made twice.
+        </p>
+</div>
+</body>

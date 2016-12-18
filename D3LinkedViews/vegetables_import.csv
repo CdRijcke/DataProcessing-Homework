@@ -1,0 +1,781 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2012,2012,2012,2,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,19656803,,,0
+H4,2012,2012,2012,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,359083333,,,0
+H4,2012,2012,2012,2,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,11819471,,,0
+H4,2012,2012,2012,2,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,23126753,,,0
+H4,2012,2012,2012,2,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,10746126,,,0
+H4,2012,2012,2012,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,271601799,,,0
+H4,2012,2012,2012,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,593481730,,,0
+H4,2012,2012,2012,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1808523397,,,0
+H4,2012,2012,2012,2,0,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,10736431,,,0
+H4,2012,2012,2012,2,0,1,Import,64,Bhutan,BTN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,8493827,,,0
+H4,2012,2012,2012,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1752035,,,0
+H4,2012,2012,2012,2,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,40039041,,,0
+H4,2012,2012,2012,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,635484971,,,0
+H4,2012,2012,2012,2,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,108931217,,,0
+H4,2012,2012,2012,2,0,1,Import,112,Belarus,BLR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,93781700,,,0
+H4,2012,2012,2012,2,0,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1858519,,,0
+H4,2012,2012,2012,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2491879202,,,0
+H4,2012,2012,2012,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,81421510,,,0
+H4,2012,2012,2012,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2406864845,,,0
+H4,2012,2012,2012,2,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,183598615,,,0
+H4,2012,2012,2012,2,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,55704057,,,0
+H4,2012,2012,2012,2,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,94286036,,,0
+H4,2012,2012,2012,2,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,34247125,,,0
+H4,2012,2012,2012,2,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,517574020,,,0
+H4,2012,2012,2012,2,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,481543739,,,0
+H4,2012,2012,2012,2,0,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,51195287,,,0
+H4,2012,2012,2012,2,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,78209797,,,0
+H4,2012,2012,2012,2,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,54938055,,,0
+H4,2012,2012,2012,2,0,1,Import,242,Fiji,FJI,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,26538403,,,0
+H4,2012,2012,2012,2,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,274972731,,,0
+H4,2012,2012,2012,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3142889880,,,0
+H4,2012,2012,2012,2,0,1,Import,258,French Polynesia,PYF,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,13113706,,,0
+H4,2012,2012,2012,2,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,43453039,,,0
+H4,2012,2012,2012,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,6162137022,,,0
+H4,2012,2012,2012,2,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,222379989,,,0
+H4,2012,2012,2012,2,0,1,Import,304,Greenland,GRL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,5879418,,,0
+H4,2012,2012,2012,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,32533688,,,0
+H4,2012,2012,2012,2,0,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,10789024,,,0
+H4,2012,2012,2012,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,443906063,,,0
+H4,2012,2012,2012,2,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,161163000,,,0
+H4,2012,2012,2012,2,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,23006887,,,0
+H4,2012,2012,2012,2,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,503590221,,,0
+H4,2012,2012,2012,2,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,423603649,,,0
+H4,2012,2012,2012,2,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,82642000,,,0
+H4,2012,2012,2012,2,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1695893570,,,0
+H4,2012,2012,2012,2,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2699309666,,,0
+H4,2012,2012,2012,2,0,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,173992505,,,0
+H4,2012,2012,2012,2,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,114086282,,,0
+H4,2012,2012,2012,2,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,700413498,,,0
+H4,2012,2012,2012,2,0,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,126956755,,,0
+H4,2012,2012,2012,2,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,88754269,,,0
+H4,2012,2012,2012,2,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,471081708,,,0
+H4,2012,2012,2012,2,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,88907424,,,0
+H4,2012,2012,2012,2,0,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,24670291,,,0
+H4,2012,2012,2012,2,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2830329,,,0
+H4,2012,2012,2012,2,0,1,Import,462,Maldives,MDV,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,33023667,,,0
+H4,2012,2012,2012,2,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,16829874,,,0
+H4,2012,2012,2012,2,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,30483158,,,0
+H4,2012,2012,2012,2,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,526150029,,,0
+H4,2012,2012,2012,2,0,1,Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,10854555,,,0
+H4,2012,2012,2012,2,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,113862388,,,0
+H4,2012,2012,2012,2,0,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,34901081,,,0
+H4,2012,2012,2012,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2552301638,,,0
+H4,2012,2012,2012,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,64487918,,,0
+H4,2012,2012,2012,2,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,13689362,,,0
+H4,2012,2012,2012,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,407669274,,,0
+H4,2012,2012,2012,2,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,595095061,,,0
+H4,2012,2012,2012,2,0,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,29493735,,,0
+H4,2012,2012,2012,2,0,1,Import,598,Papua New Guinea,PNG,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,9920808,,,0
+H4,2012,2012,2012,2,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,12415325,,,0
+H4,2012,2012,2012,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,70411455,,,0
+H4,2012,2012,2012,2,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,568145835,,,0
+H4,2012,2012,2012,2,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,357376175,,,0
+H4,2012,2012,2012,2,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,204958148,,,0
+H4,2012,2012,2012,2,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2485447611,,,0
+H4,2012,2012,2012,2,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,476041928,,,0
+H4,2012,2012,2012,2,0,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,62411101,,,0
+H4,2012,2012,2012,2,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,473000423,,,0
+H4,2012,2012,2012,2,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,221744425,,,0
+H4,2012,2012,2012,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,276780480,,,0
+H4,2012,2012,2012,2,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,122683646,,,0
+H4,2012,2012,2012,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,158819471,,,0
+H4,2012,2012,2012,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1244230592,,,0
+H4,2012,2012,2012,2,0,1,Import,729,Sudan,SDN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,65074786,,,0
+H4,2012,2012,2012,2,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,688127444,,,0
+H4,2012,2012,2012,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,603500724,,,0
+H4,2012,2012,2012,2,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,368127347,,,0
+H4,2012,2012,2012,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,882129664,,,0
+H4,2012,2012,2012,2,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,30862484,,,0
+H4,2012,2012,2012,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,280314820,,,0
+H4,2012,2012,2012,2,0,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3480826,,,0
+H4,2012,2012,2012,2,0,1,Import,807,TFYR of Macedonia,MKD,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,11764801,,,0
+H4,2012,2012,2012,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3847519650,,,0
+H4,2012,2012,2012,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,7950329338,,,0
+H4,2012,2012,2012,2,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,12258884,,,0
+H4,2012,2012,2012,2,0,1,Import,882,Samoa,WSM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2842316,,,0
+H4,2012,2012,2012,2,0,1,Import,887,Yemen,YEM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,40734061,,,0
+H4,2012,2012,2012,2,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,9497387,,,0
+H4,2013,2013,2013,2,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,22008185,,,0
+H4,2013,2013,2013,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,458521962,,,0
+H4,2013,2013,2013,2,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,12501785,,,0
+H4,2013,2013,2013,2,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,14360266,,,0
+H4,2013,2013,2013,2,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,16976964,,,0
+H4,2013,2013,2013,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,260377254,,,0
+H4,2013,2013,2013,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,644835116,,,0
+H4,2013,2013,2013,2,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,43760248,,,0
+H4,2013,2013,2013,2,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,82521264,,,0
+H4,2013,2013,2013,2,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,11329133,,,0
+H4,2013,2013,2013,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2293275175,,,0
+H4,2013,2013,2013,2,0,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,11474103,,,0
+H4,2013,2013,2013,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2482332,,,0
+H4,2013,2013,2013,2,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,49878976,,,0
+H4,2013,2013,2013,2,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,43256493,,,0
+H4,2013,2013,2013,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,797556941,,,0
+H4,2013,2013,2013,2,0,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,28548666,,,0
+H4,2013,2013,2013,2,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,135891876,,,0
+H4,2013,2013,2013,2,0,1,Import,112,Belarus,BLR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,163139900,,,0
+H4,2013,2013,2013,2,0,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,4199174,,,0
+H4,2013,2013,2013,2,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,5760163,,,0
+H4,2013,2013,2013,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2800186933,,,0
+H4,2013,2013,2013,2,0,1,Import,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,11232460,,,0
+H4,2013,2013,2013,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,286334226,,,0
+H4,2013,2013,2013,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,91983596,,,0
+H4,2013,2013,2013,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2549351815,,,0
+H4,2013,2013,2013,2,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,151208508,,,0
+H4,2013,2013,2013,2,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,49183667,,,0
+H4,2013,2013,2013,2,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,122351558,,,0
+H4,2013,2013,2013,2,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,33081527,,,0
+H4,2013,2013,2013,2,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,597033372,,,0
+H4,2013,2013,2013,2,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,491551320,,,0
+H4,2013,2013,2013,2,0,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,53972223,,,0
+H4,2013,2013,2013,2,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,42358958,,,0
+H4,2013,2013,2013,2,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,58460086,,,0
+H4,2013,2013,2013,2,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,65247628,,,0
+H4,2013,2013,2013,2,0,1,Import,242,Fiji,FJI,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,30943738,,,0
+H4,2013,2013,2013,2,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,308379074,,,0
+H4,2013,2013,2013,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3482076070,,,0
+H4,2013,2013,2013,2,0,1,Import,258,French Polynesia,PYF,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,13844067,,,0
+H4,2013,2013,2013,2,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,47664700,,,0
+H4,2013,2013,2013,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,6918686399,,,0
+H4,2013,2013,2013,2,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,18550821,,,0
+H4,2013,2013,2013,2,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,236719435,,,0
+H4,2013,2013,2013,2,0,1,Import,304,Greenland,GRL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,6555462,,,0
+H4,2013,2013,2013,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,31393674,,,0
+H4,2013,2013,2013,2,0,1,Import,324,Guinea,GIN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,8226158,,,0
+H4,2013,2013,2013,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,496476642,,,0
+H4,2013,2013,2013,2,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,190679527,,,0
+H4,2013,2013,2013,2,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,25107422,,,0
+H4,2013,2013,2013,2,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,640757610,,,0
+H4,2013,2013,2013,2,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,410404806,,,0
+H4,2013,2013,2013,2,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,106182000,,,0
+H4,2013,2013,2013,2,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1905198164,,,0
+H4,2013,2013,2013,2,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2512244474,,,0
+H4,2013,2013,2013,2,0,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,265292379,,,0
+H4,2013,2013,2013,2,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,127283307,,,0
+H4,2013,2013,2013,2,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,723124752,,,0
+H4,2013,2013,2013,2,0,1,Import,414,Kuwait,KWT,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,282466071,,,0
+H4,2013,2013,2013,2,0,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,136773488,,,0
+H4,2013,2013,2013,2,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,97509599,,,0
+H4,2013,2013,2013,2,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,600145301,,,0
+H4,2013,2013,2013,2,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,98713169,,,0
+H4,2013,2013,2013,2,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2792455,,,0
+H4,2013,2013,2013,2,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,824400331,,,0
+H4,2013,2013,2013,2,0,1,Import,462,Maldives,MDV,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,38606369,,,0
+H4,2013,2013,2013,2,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,20122110,,,0
+H4,2013,2013,2013,2,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,31944505,,,0
+H4,2013,2013,2013,2,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,415964716,,,0
+H4,2013,2013,2013,2,0,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,179880782,,,0
+H4,2013,2013,2013,2,0,1,Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,12988415,,,0
+H4,2013,2013,2013,2,0,1,Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,15338454,,,0
+H4,2013,2013,2013,2,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,112584731,,,0
+H4,2013,2013,2013,2,0,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,36238929,,,0
+H4,2013,2013,2013,2,0,1,Import,524,Nepal,NPL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,107356315,,,0
+H4,2013,2013,2013,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2846163905,,,0
+H4,2013,2013,2013,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,68976187,,,0
+H4,2013,2013,2013,2,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,11903227,,,0
+H4,2013,2013,2013,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,455069183,,,0
+H4,2013,2013,2013,2,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,499693188,,,0
+H4,2013,2013,2013,2,0,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,29306091,,,0
+H4,2013,2013,2013,2,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,11813130,,,0
+H4,2013,2013,2013,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,62888367,,,0
+H4,2013,2013,2013,2,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,737084143,,,0
+H4,2013,2013,2013,2,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,458505389,,,0
+H4,2013,2013,2013,2,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,212960052,,,0
+H4,2013,2013,2013,2,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,245031834,,,0
+H4,2013,2013,2013,2,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2881787247,,,0
+H4,2013,2013,2013,2,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,11949193,,,0
+H4,2013,2013,2013,2,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,478187798,,,0
+H4,2013,2013,2013,2,0,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,74712134,,,0
+H4,2013,2013,2013,2,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2305340439,,,0
+H4,2013,2013,2013,2,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,524636121,,,0
+H4,2013,2013,2013,2,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,255555219,,,0
+H4,2013,2013,2013,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,323418440,,,0
+H4,2013,2013,2013,2,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,142655054,,,0
+H4,2013,2013,2013,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,118158219,,,0
+H4,2013,2013,2013,2,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,15367724,,,0
+H4,2013,2013,2013,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1329840978,,,0
+H4,2013,2013,2013,2,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,749109334,,,0
+H4,2013,2013,2013,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,697749021,,,0
+H4,2013,2013,2013,2,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,405198724,,,0
+H4,2013,2013,2013,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,983525217,,,0
+H4,2013,2013,2013,2,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,31177672,,,0
+H4,2013,2013,2013,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,325782742,,,0
+H4,2013,2013,2013,2,0,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3042259,,,0
+H4,2013,2013,2013,2,0,1,Import,807,TFYR of Macedonia,MKD,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,12652794,,,0
+H4,2013,2013,2013,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,4532428276,,,0
+H4,2013,2013,2013,2,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3441943,,,0
+H4,2013,2013,2013,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,8768945057,,,0
+H4,2013,2013,2013,2,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,21713182,,,0
+H4,2013,2013,2013,2,0,1,Import,882,Samoa,WSM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3608338,,,0
+H4,2013,2013,2013,2,0,1,Import,887,Yemen,YEM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,48938471,,,0
+H4,2013,2013,2013,2,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,9757819,,,0
+H4,2014,2014,2014,2,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,25401527,,,0
+H4,2014,2014,2014,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,370396525,,,0
+H4,2014,2014,2014,2,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,11741022,,,0
+H4,2014,2014,2014,2,0,1,Import,24,Angola,AGO,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,174998999,,,0
+H4,2014,2014,2014,2,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,14565588,,,0
+H4,2014,2014,2014,2,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,13743676,,,0
+H4,2014,2014,2014,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,265102526,,,0
+H4,2014,2014,2014,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,637828918,,,0
+H4,2014,2014,2014,2,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,47761072,,,0
+H4,2014,2014,2014,2,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,108157001,,,0
+H4,2014,2014,2014,2,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,15117624,,,0
+H4,2014,2014,2014,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1950017014,,,0
+H4,2014,2014,2014,2,0,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,11748177,,,0
+H4,2014,2014,2014,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3327859,,,0
+H4,2014,2014,2014,2,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,50993272,,,0
+H4,2014,2014,2014,2,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,38609309,,,0
+H4,2014,2014,2014,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,492220056,,,0
+H4,2014,2014,2014,2,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3318338,,,0
+H4,2014,2014,2014,2,0,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,30555265,,,0
+H4,2014,2014,2014,2,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,150400740,,,0
+H4,2014,2014,2014,2,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2767932,,,0
+H4,2014,2014,2014,2,0,1,Import,112,Belarus,BLR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,360000200,,,0
+H4,2014,2014,2014,2,0,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3434092,,,0
+H4,2014,2014,2014,2,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,6891640,,,0
+H4,2014,2014,2014,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2868512070,,,0
+H4,2014,2014,2014,2,0,1,Import,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,9848772,,,0
+H4,2014,2014,2014,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,280684947,,,0
+H4,2014,2014,2014,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,76787457,,,0
+H4,2014,2014,2014,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2579849573,,,0
+H4,2014,2014,2014,2,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,151145573,,,0
+H4,2014,2014,2014,2,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,9834902,,,0
+H4,2014,2014,2014,2,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,129641108,,,0
+H4,2014,2014,2014,2,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,32576731,,,0
+H4,2014,2014,2014,2,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,568084092,,,0
+H4,2014,2014,2014,2,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,473964644,,,0
+H4,2014,2014,2014,2,0,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,39879073,,,0
+H4,2014,2014,2014,2,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,47917000,,,0
+H4,2014,2014,2014,2,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,63085500,,,0
+H4,2014,2014,2014,2,0,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,30269039,,,0
+H4,2014,2014,2014,2,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,65825457,,,0
+H4,2014,2014,2014,2,0,1,Import,242,Fiji,FJI,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,32326999,,,0
+H4,2014,2014,2014,2,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,309757057,,,0
+H4,2014,2014,2014,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3388577650,,,0
+H4,2014,2014,2014,2,0,1,Import,258,French Polynesia,PYF,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,14042062,,,0
+H4,2014,2014,2014,2,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,59497852,,,0
+H4,2014,2014,2014,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,6697795695,,,0
+H4,2014,2014,2014,2,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,223518351,,,0
+H4,2014,2014,2014,2,0,1,Import,304,Greenland,GRL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,6060812,,,0
+H4,2014,2014,2014,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,35165048,,,0
+H4,2014,2014,2014,2,0,1,Import,324,Guinea,GIN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,11524498,,,0
+H4,2014,2014,2014,2,0,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,28263183,,,0
+H4,2014,2014,2014,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,613445925,,,0
+H4,2014,2014,2014,2,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,207622102,,,0
+H4,2014,2014,2014,2,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,25514153,,,0
+H4,2014,2014,2014,2,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,644023014,,,0
+H4,2014,2014,2014,2,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,380608116,,,0
+H4,2014,2014,2014,2,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,103362000,,,0
+H4,2014,2014,2014,2,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1841026125,,,0
+H4,2014,2014,2014,2,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,23367659,,,0
+H4,2014,2014,2014,2,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2445829677,,,0
+H4,2014,2014,2014,2,0,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,251530857,,,0
+H4,2014,2014,2014,2,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,119586176,,,0
+H4,2014,2014,2014,2,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,690099740,,,0
+H4,2014,2014,2014,2,0,1,Import,414,Kuwait,KWT,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,343122688,,,0
+H4,2014,2014,2014,2,0,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,146768714,,,0
+H4,2014,2014,2014,2,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,104135972,,,0
+H4,2014,2014,2014,2,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,462875525,,,0
+H4,2014,2014,2014,2,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,95940233,,,0
+H4,2014,2014,2014,2,0,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,50599180,,,0
+H4,2014,2014,2014,2,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3886397,,,0
+H4,2014,2014,2014,2,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3430941,,,0
+H4,2014,2014,2014,2,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,759881678,,,0
+H4,2014,2014,2014,2,0,1,Import,462,Maldives,MDV,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,40739604,,,0
+H4,2014,2014,2014,2,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,20241538,,,0
+H4,2014,2014,2014,2,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,31372430,,,0
+H4,2014,2014,2014,2,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,401637682,,,0
+H4,2014,2014,2014,2,0,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,176531048,,,0
+H4,2014,2014,2014,2,0,1,Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,17105754,,,0
+H4,2014,2014,2014,2,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,142519498,,,0
+H4,2014,2014,2014,2,0,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,33143142,,,0
+H4,2014,2014,2014,2,0,1,Import,524,Nepal,NPL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,136014065,,,0
+H4,2014,2014,2014,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2619628229,,,0
+H4,2014,2014,2014,2,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,18287240,,,0
+H4,2014,2014,2014,2,0,1,Import,540,New Caledonia,NCL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,10590860,,,0
+H4,2014,2014,2014,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,73051447,,,0
+H4,2014,2014,2014,2,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,30918127,,,0
+H4,2014,2014,2014,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,437035270,,,0
+H4,2014,2014,2014,2,0,1,Import,585,Palau,PLW,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1363780,,,0
+H4,2014,2014,2014,2,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,665878455,,,0
+H4,2014,2014,2014,2,0,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,31361413,,,0
+H4,2014,2014,2014,2,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,15170056,,,0
+H4,2014,2014,2014,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,64292909,,,0
+H4,2014,2014,2014,2,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,766040758,,,0
+H4,2014,2014,2014,2,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,402802462,,,0
+H4,2014,2014,2014,2,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,241945704,,,0
+H4,2014,2014,2014,2,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,304986229,,,0
+H4,2014,2014,2014,2,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2959077603,,,0
+H4,2014,2014,2014,2,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,9878904,,,0
+H4,2014,2014,2014,2,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,8711932,,,0
+H4,2014,2014,2014,2,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,557514799,,,0
+H4,2014,2014,2014,2,0,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,75089537,,,0
+H4,2014,2014,2014,2,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2693559644,,,0
+H4,2014,2014,2014,2,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,522546687,,,0
+H4,2014,2014,2014,2,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,254216712,,,0
+H4,2014,2014,2014,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,347394764,,,0
+H4,2014,2014,2014,2,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,134938776,,,0
+H4,2014,2014,2014,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,128770467,,,0
+H4,2014,2014,2014,2,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,10391475,,,0
+H4,2014,2014,2014,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1192818708,,,0
+H4,2014,2014,2014,2,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,771408246,,,0
+H4,2014,2014,2014,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,657444193,,,0
+H4,2014,2014,2014,2,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,422551333,,,0
+H4,2014,2014,2014,2,0,1,Import,776,Tonga,TON,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,629950,,,0
+H4,2014,2014,2014,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1035765673,,,0
+H4,2014,2014,2014,2,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,28801357,,,0
+H4,2014,2014,2014,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,465855001,,,0
+H4,2014,2014,2014,2,0,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,8637575,,,0
+H4,2014,2014,2014,2,0,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,162506882,,,0
+H4,2014,2014,2014,2,0,1,Import,807,TFYR of Macedonia,MKD,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,14727406,,,0
+H4,2014,2014,2014,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,571217746,,,0
+H4,2014,2014,2014,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,4478157731,,,0
+H4,2014,2014,2014,2,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,5515519,,,0
+H4,2014,2014,2014,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,8953995119,,,0
+H4,2014,2014,2014,2,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,20198742,,,0
+H4,2014,2014,2014,2,0,1,Import,882,Samoa,WSM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3267637,,,0
+H4,2014,2014,2014,2,0,1,Import,887,Yemen,YEM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,108391870,,,0
+H4,2014,2014,2014,2,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,12647704,,,0
+H4,2015,2015,2015,2,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,16004540,,,0
+H4,2015,2015,2015,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,387054072,,,0
+H4,2015,2015,2015,2,0,1,Import,24,Angola,AGO,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,110312368,,,0
+H4,2015,2015,2015,2,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,22633397,,,0
+H4,2015,2015,2015,2,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,17712539,,,0
+H4,2015,2015,2015,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,235255265,,,0
+H4,2015,2015,2015,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,600118098,,,0
+H4,2015,2015,2015,2,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,47027061,,,0
+H4,2015,2015,2015,2,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,110511465,,,0
+H4,2015,2015,2015,2,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,11071624,,,0
+H4,2015,2015,2015,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1728763704,,,0
+H4,2015,2015,2015,2,0,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,9691692,,,0
+H4,2015,2015,2015,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3497724,,,0
+H4,2015,2015,2015,2,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,44060167,,,0
+H4,2015,2015,2015,2,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,33713770,,,0
+H4,2015,2015,2015,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,504753133,,,0
+H4,2015,2015,2015,2,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2745007,,,0
+H4,2015,2015,2015,2,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1114801,,,0
+H4,2015,2015,2015,2,0,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,26879618,,,0
+H4,2015,2015,2015,2,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,141530526,,,0
+H4,2015,2015,2015,2,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1958749,,,0
+H4,2015,2015,2015,2,0,1,Import,112,Belarus,BLR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,490218800,,,0
+H4,2015,2015,2015,2,0,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2109516,,,0
+H4,2015,2015,2015,2,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,8862187,,,0
+H4,2015,2015,2015,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2913712057,,,0
+H4,2015,2015,2015,2,0,1,Import,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,10541101,,,0
+H4,2015,2015,2015,2,0,1,Import,136,Cayman Isds,CYM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,24528529,,,0
+H4,2015,2015,2015,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,392103819,,,0
+H4,2015,2015,2015,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,81484966,,,0
+H4,2015,2015,2015,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2621426058,,,0
+H4,2015,2015,2015,2,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,163766044,,,0
+H4,2015,2015,2015,2,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,53130604,,,0
+H4,2015,2015,2015,2,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,124604016,,,0
+H4,2015,2015,2015,2,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,30947858,,,0
+H4,2015,2015,2015,2,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,530193921,,,0
+H4,2015,2015,2015,2,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2925017,,,0
+H4,2015,2015,2015,2,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,442037673,,,0
+H4,2015,2015,2015,2,0,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,68760557,,,0
+H4,2015,2015,2015,2,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,43178467,,,0
+H4,2015,2015,2015,2,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,75881041,,,0
+H4,2015,2015,2015,2,0,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,60035546,,,0
+H4,2015,2015,2015,2,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,62708753,,,0
+H4,2015,2015,2015,2,0,1,Import,242,Fiji,FJI,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,29868461,,,0
+H4,2015,2015,2015,2,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,268939705,,,0
+H4,2015,2015,2015,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3102195979,,,0
+H4,2015,2015,2015,2,0,1,Import,258,French Polynesia,PYF,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,13813727,,,0
+H4,2015,2015,2015,2,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,46241165,,,0
+H4,2015,2015,2015,2,0,1,Import,275,State of Palestine,PSE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,42276423,,,0
+H4,2015,2015,2015,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,6164877750,,,0
+H4,2015,2015,2015,2,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,213908811,,,0
+H4,2015,2015,2015,2,0,1,Import,304,Greenland,GRL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,5141586,,,0
+H4,2015,2015,2015,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,39248209,,,0
+H4,2015,2015,2015,2,0,1,Import,324,Guinea,GIN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,13021183,,,0
+H4,2015,2015,2015,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,650324841,,,0
+H4,2015,2015,2015,2,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,208192405,,,0
+H4,2015,2015,2015,2,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,23227036,,,0
+H4,2015,2015,2015,2,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,360597779,,,0
+H4,2015,2015,2015,2,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,145816000,,,0
+H4,2015,2015,2015,2,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1690511103,,,0
+H4,2015,2015,2015,2,0,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,54769336,,,0
+H4,2015,2015,2015,2,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,22006192,,,0
+H4,2015,2015,2015,2,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2351484119,,,0
+H4,2015,2015,2015,2,0,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,224479829,,,0
+H4,2015,2015,2015,2,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,107145393,,,0
+H4,2015,2015,2015,2,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,693598561,,,0
+H4,2015,2015,2015,2,0,1,Import,414,Kuwait,KWT,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,398265972,,,0
+H4,2015,2015,2015,2,0,1,Import,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,6416416,,,0
+H4,2015,2015,2015,2,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,89934061,,,0
+H4,2015,2015,2015,2,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,280710601,,,0
+H4,2015,2015,2015,2,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,87405256,,,0
+H4,2015,2015,2015,2,0,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,52456684,,,0
+H4,2015,2015,2015,2,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3998468,,,0
+H4,2015,2015,2015,2,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3426121,,,0
+H4,2015,2015,2015,2,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,897161913,,,0
+H4,2015,2015,2015,2,0,1,Import,462,Maldives,MDV,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,44180025,,,0
+H4,2015,2015,2015,2,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,19736735,,,0
+H4,2015,2015,2015,2,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,29319721,,,0
+H4,2015,2015,2015,2,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,360609137,,,0
+H4,2015,2015,2015,2,0,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,198962578,,,0
+H4,2015,2015,2015,2,0,1,Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,15466120,,,0
+H4,2015,2015,2015,2,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,25528406,,,0
+H4,2015,2015,2015,2,0,1,Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,16917769,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,77744340,,,0
+H4,2015,2015,2015,2,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,127564085,,,0
+H4,2015,2015,2015,2,0,1,Import,524,Nepal,NPL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,150749034,,,0
+H4,2015,2015,2015,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2355345647,,,0
+H4,2015,2015,2015,2,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,19052759,,,0
+H4,2015,2015,2015,2,0,1,Import,540,New Caledonia,NCL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,10893865,,,0
+H4,2015,2015,2015,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,66346389,,,0
+H4,2015,2015,2015,2,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,21231173,,,0
+H4,2015,2015,2015,2,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,6509077,,,0
+H4,2015,2015,2015,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,383329861,,,0
+H4,2015,2015,2015,2,0,1,Import,585,Palau,PLW,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1550809,,,0
+H4,2015,2015,2015,2,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,674479699,,,0
+H4,2015,2015,2015,2,0,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,33859900,,,0
+H4,2015,2015,2015,2,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,18299535,,,0
+H4,2015,2015,2015,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,83137396,,,0
+H4,2015,2015,2015,2,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,672986182,,,0
+H4,2015,2015,2015,2,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,367707078,,,0
+H4,2015,2015,2015,2,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,283705982,,,0
+H4,2015,2015,2015,2,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,303574854,,,0
+H4,2015,2015,2015,2,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1891685019,,,0
+H4,2015,2015,2015,2,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,16496012,,,0
+H4,2015,2015,2015,2,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,668584036,,,0
+H4,2015,2015,2015,2,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,42835785,,,0
+H4,2015,2015,2015,2,0,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,70804315,,,0
+H4,2015,2015,2015,2,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3676071315,,,0
+H4,2015,2015,2015,2,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,528196869,,,0
+H4,2015,2015,2015,2,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,232349193,,,0
+H4,2015,2015,2015,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,412796970,,,0
+H4,2015,2015,2015,2,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,119419119,,,0
+H4,2015,2015,2015,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,88898085,,,0
+H4,2015,2015,2015,2,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,10407251,,,0
+H4,2015,2015,2015,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1117129859,,,0
+H4,2015,2015,2015,2,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,698935460,,,0
+H4,2015,2015,2015,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,608118561,,,0
+H4,2015,2015,2015,2,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,590898734,,,0
+H4,2015,2015,2015,2,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1094617,,,0
+H4,2015,2015,2015,2,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,29596806,,,0
+H4,2015,2015,2015,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,456191138,,,0
+H4,2015,2015,2015,2,0,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,7015707,,,0
+H4,2015,2015,2015,2,0,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,62806582,,,0
+H4,2015,2015,2015,2,0,1,Import,807,TFYR of Macedonia,MKD,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,14386666,,,0
+H4,2015,2015,2015,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,538650219,,,0
+H4,2015,2015,2015,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,4277264102,,,0
+H4,2015,2015,2015,2,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3391891,,,0
+H4,2015,2015,2015,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,9260441185,,,0
+H4,2015,2015,2015,2,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2492271,,,0
+H4,2015,2015,2015,2,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,23547232,,,0
+H4,2015,2015,2015,2,0,1,Import,882,Samoa,WSM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3818200,,,0
+H4,2015,2015,2015,2,0,1,Import,887,Yemen,YEM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,43403227,,,0
+H4,2015,2015,2015,2,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,12515478,,,0
+H3,2011,2011,2011,2,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,20877639,,,0
+H3,2011,2011,2011,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,394638231,,,0
+H3,2011,2011,2011,2,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,13219063,,,0
+H3,2011,2011,2011,2,0,1,Import,24,Angola,AGO,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,100378982,,,0
+H3,2011,2011,2011,2,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,34710321,,,0
+H3,2011,2011,2011,2,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,17175819,,,0
+H3,2011,2011,2011,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,282645627,,,0
+H3,2011,2011,2011,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,636863189,,,0
+H3,2011,2011,2011,2,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,37724123,,,0
+H3,2011,2011,2011,2,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,62927180,,,0
+H3,2011,2011,2011,2,0,1,Import,50,Bangladesh,BGD,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,303655393,,,0
+H3,2011,2011,2011,2,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,19037687,,,0
+H3,2011,2011,2011,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1832041597,,,0
+H3,2011,2011,2011,2,0,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,7756966,,,0
+H3,2011,2011,2011,2,0,1,Import,64,Bhutan,BTN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,5305184,,,0
+H3,2011,2011,2011,2,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1703692,,,0
+H3,2011,2011,2011,2,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,42844638,,,0
+H3,2011,2011,2011,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,614747523,,,0
+H3,2011,2011,2011,2,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2265164,,,0
+H3,2011,2011,2011,2,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,115927857,,,0
+H3,2011,2011,2011,2,0,1,Import,112,Belarus,BLR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,111108300,,,0
+H3,2011,2011,2011,2,0,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2531892,,,0
+H3,2011,2011,2011,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2615313470,,,0
+H3,2011,2011,2011,2,0,1,Import,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,11277960,,,0
+H3,2011,2011,2011,2,0,1,Import,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1225591,,,0
+H3,2011,2011,2011,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,308783361,,,0
+H3,2011,2011,2011,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,54337900,,,0
+H3,2011,2011,2011,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1823631443,,,0
+H3,2011,2011,2011,2,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,181832018,,,0
+H3,2011,2011,2011,2,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,60456091,,,0
+H3,2011,2011,2011,2,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,102892845,,,0
+H3,2011,2011,2011,2,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,35920942,,,0
+H3,2011,2011,2011,2,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,595165355,,,0
+H3,2011,2011,2011,2,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,496998613,,,0
+H3,2011,2011,2011,2,0,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,70166515,,,0
+H3,2011,2011,2011,2,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,47492637,,,0
+H3,2011,2011,2011,2,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,100509833,,,0
+H3,2011,2011,2011,2,0,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,27924786,,,0
+H3,2011,2011,2011,2,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,59317457,,,0
+H3,2011,2011,2011,2,0,1,Import,242,Fiji,FJI,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,29150145,,,0
+H3,2011,2011,2011,2,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,278929190,,,0
+H3,2011,2011,2011,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3159649259,,,0
+H3,2011,2011,2011,2,0,1,Import,258,French Polynesia,PYF,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,12964224,,,0
+H3,2011,2011,2011,2,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,60364474,,,0
+H3,2011,2011,2011,2,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3557174,,,0
+H3,2011,2011,2011,2,0,1,Import,275,State of Palestine,PSE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,18378614,,,0
+H3,2011,2011,2011,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,6445813898,,,0
+H3,2011,2011,2011,2,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,26352883,,,0
+H3,2011,2011,2011,2,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,307971741,,,0
+H3,2011,2011,2011,2,0,1,Import,304,Greenland,GRL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,6482947,,,0
+H3,2011,2011,2011,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,44458582,,,0
+H3,2011,2011,2011,2,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,15417029,,,0
+H3,2011,2011,2011,2,0,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,17443476,,,0
+H3,2011,2011,2011,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,354493440,,,0
+H3,2011,2011,2011,2,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,206767000,,,0
+H3,2011,2011,2011,2,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,21457368,,,0
+H3,2011,2011,2011,2,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,599083558,,,0
+H3,2011,2011,2011,2,0,1,Import,364,Iran,IRN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,125809141,,,0
+H3,2011,2011,2011,2,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,434506480,,,0
+H3,2011,2011,2011,2,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,91369000,,,0
+H3,2011,2011,2011,2,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1899822258,,,0
+H3,2011,2011,2011,2,0,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,40742622,,,0
+H3,2011,2011,2011,2,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,24507911,,,0
+H3,2011,2011,2011,2,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2531965926,,,0
+H3,2011,2011,2011,2,0,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,214353366,,,0
+H3,2011,2011,2011,2,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,115280412,,,0
+H3,2011,2011,2011,2,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,682611842,,,0
+H3,2011,2011,2011,2,0,1,Import,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3328155,,,0
+H3,2011,2011,2011,2,0,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,139804192,,,0
+H3,2011,2011,2011,2,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,94051741,,,0
+H3,2011,2011,2011,2,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,381830873,,,0
+H3,2011,2011,2011,2,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,90542348,,,0
+H3,2011,2011,2011,2,0,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,21965411,,,0
+H3,2011,2011,2011,2,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3092669,,,0
+H3,2011,2011,2011,2,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1648979,,,0
+H3,2011,2011,2011,2,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,735358066,,,0
+H3,2011,2011,2011,2,0,1,Import,462,Maldives,MDV,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,30471870,,,0
+H3,2011,2011,2011,2,0,1,Import,466,Mali,MLI,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,7763964,,,0
+H3,2011,2011,2011,2,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,20239144,,,0
+H3,2011,2011,2011,2,0,1,Import,478,Mauritania,MRT,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,15839273,,,0
+H3,2011,2011,2011,2,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,31746676,,,0
+H3,2011,2011,2011,2,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,379554961,,,0
+H3,2011,2011,2011,2,0,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,151710314,,,0
+H3,2011,2011,2011,2,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,38492375,,,0
+H3,2011,2011,2011,2,0,1,Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,11148610,,,0
+H3,2011,2011,2011,2,0,1,Import,500,Montserrat,MSR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,330024,,,0
+H3,2011,2011,2011,2,0,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,37017352,,,0
+H3,2011,2011,2011,2,0,1,Import,524,Nepal,NPL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,70541577,,,0
+H3,2011,2011,2011,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2648929900,,,0
+H3,2011,2011,2011,2,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,15988268,,,0
+H3,2011,2011,2011,2,0,1,Import,540,New Caledonia,NCL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,13342485,,,0
+H3,2011,2011,2011,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,74932081,,,0
+H3,2011,2011,2011,2,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,14659158,,,0
+H3,2011,2011,2011,2,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,4333521,,,0
+H3,2011,2011,2011,2,0,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,14097230,,,0
+H3,2011,2011,2011,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,410641423,,,0
+H3,2011,2011,2011,2,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,562152784,,,0
+H3,2011,2011,2011,2,0,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,28823057,,,0
+H3,2011,2011,2011,2,0,1,Import,598,Papua New Guinea,PNG,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,6635734,,,0
+H3,2011,2011,2011,2,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,12706624,,,0
+H3,2011,2011,2011,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,66921969,,,0
+H3,2011,2011,2011,2,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,708801426,,,0
+H3,2011,2011,2011,2,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,430825890,,,0
+H3,2011,2011,2011,2,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,202185367,,,0
+H3,2011,2011,2011,2,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3039948302,,,0
+H3,2011,2011,2011,2,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,8359279,,,0
+H3,2011,2011,2011,2,0,1,Import,659,Saint Kitts and Nevis,KNA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3110467,,,0
+H3,2011,2011,2011,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2853340,,,0
+H3,2011,2011,2011,2,0,1,Import,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2030968,,,0
+H3,2011,2011,2011,2,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,447097626,,,0
+H3,2011,2011,2011,2,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,47833566,,,0
+H3,2011,2011,2011,2,0,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,69809047,,,0
+H3,2011,2011,2011,2,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1864675732,,,0
+H3,2011,2011,2011,2,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,449053952,,,0
+H3,2011,2011,2011,2,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,268239545,,,0
+H3,2011,2011,2011,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,169399093,,,0
+H3,2011,2011,2011,2,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,129755665,,,0
+H3,2011,2011,2011,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,127616295,,,0
+H3,2011,2011,2011,2,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,20326605,,,0
+H3,2011,2011,2011,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1251195599,,,0
+H3,2011,2011,2011,2,0,1,Import,736,Fmr Sudan,SDN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,68327911,,,0
+H3,2011,2011,2011,2,0,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,9647443,,,0
+H3,2011,2011,2011,2,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,669912495,,,0
+H3,2011,2011,2011,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,628860212,,,0
+H3,2011,2011,2011,2,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,297476536,,,0
+H3,2011,2011,2011,2,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1794081,,,0
+H3,2011,2011,2011,2,0,1,Import,776,Tonga,TON,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,736093,,,0
+H3,2011,2011,2011,2,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,37534070,,,0
+H3,2011,2011,2011,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,368260138,,,0
+H3,2011,2011,2011,2,0,1,Import,796,Turks and Caicos Isds,TCA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,5087475,,,0
+H3,2011,2011,2011,2,0,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2938409,,,0
+H3,2011,2011,2011,2,0,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,133200403,,,0
+H3,2011,2011,2011,2,0,1,Import,807,TFYR of Macedonia,MKD,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,11925093,,,0
+H3,2011,2011,2011,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,574352063,,,0
+H3,2011,2011,2011,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,4041542059,,,0
+H3,2011,2011,2011,2,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2366932,,,0
+H3,2011,2011,2011,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,7780992666,,,0
+H3,2011,2011,2011,2,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1442845,,,0
+H3,2011,2011,2011,2,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,18045281,,,0
+H3,2011,2011,2011,2,0,1,Import,882,Samoa,WSM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3003047,,,0
+H3,2011,2011,2011,2,0,1,Import,887,Yemen,YEM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,31397908,,,0
+H3,2011,2011,2011,2,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,7240136,,,0
+H3,2012,2012,2012,2,0,1,Import,24,Angola,AGO,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,140501718,,,0
+H3,2012,2012,2012,2,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,42839765,,,0
+H3,2012,2012,2012,2,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,74902768,,,0
+H3,2012,2012,2012,2,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,14127580,,,0
+H3,2012,2012,2012,2,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2715585,,,0
+H3,2012,2012,2012,2,0,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,21253276,,,0
+H3,2012,2012,2012,2,0,1,Import,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,9252406,,,0
+H3,2012,2012,2012,2,0,1,Import,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,691875,,,0
+H3,2012,2012,2012,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,204085530,,,0
+H3,2012,2012,2012,2,0,1,Import,212,Dominica,DMA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1549619,,,0
+H3,2012,2012,2012,2,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,36829666,,,0
+H3,2012,2012,2012,2,0,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,26905901,,,0
+H3,2012,2012,2012,2,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3108342,,,0
+H3,2012,2012,2012,2,0,1,Import,275,State of Palestine,PSE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,25821792,,,0
+H3,2012,2012,2012,2,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,21186714,,,0
+H3,2012,2012,2012,2,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,13198922,,,0
+H3,2012,2012,2012,2,0,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,44595496,,,0
+H3,2012,2012,2012,2,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,22729259,,,0
+H3,2012,2012,2012,2,0,1,Import,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1621831,,,0
+H3,2012,2012,2012,2,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3987901,,,0
+H3,2012,2012,2012,2,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,708855061,,,0
+H3,2012,2012,2012,2,0,1,Import,466,Mali,MLI,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,8127092,,,0
+H3,2012,2012,2012,2,0,1,Import,478,Mauritania,MRT,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,19789930,,,0
+H3,2012,2012,2012,2,0,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,175461795,,,0
+H3,2012,2012,2012,2,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,33799273,,,0
+H3,2012,2012,2012,2,0,1,Import,500,Montserrat,MSR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,349429,,,0
+H3,2012,2012,2012,2,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,14415550,,,0
+H3,2012,2012,2012,2,0,1,Import,524,Nepal,NPL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,80923801,,,0
+H3,2012,2012,2012,2,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,15779706,,,0
+H3,2012,2012,2012,2,0,1,Import,540,New Caledonia,NCL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,11421366,,,0
+H3,2012,2012,2012,2,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3598293,,,0
+H3,2012,2012,2012,2,0,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,10774506,,,0
+H3,2012,2012,2012,2,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,8026775,,,0
+H3,2012,2012,2012,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2812306,,,0
+H3,2012,2012,2012,2,0,1,Import,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2056785,,,0
+H3,2012,2012,2012,2,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,47910147,,,0
+H3,2012,2012,2012,2,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2281443523,,,0
+H3,2012,2012,2012,2,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,16068994,,,0
+H3,2012,2012,2012,2,0,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,7560779,,,0
+H3,2012,2012,2012,2,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2175964,,,0
+H3,2012,2012,2012,2,0,1,Import,776,Tonga,TON,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,702088,,,0
+H3,2012,2012,2012,2,0,1,Import,796,Turks and Caicos Isds,TCA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,5454045,,,0
+H3,2012,2012,2012,2,0,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,146654715,,,0
+H3,2012,2012,2012,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,526552202,,,0
+H3,2012,2012,2012,2,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,4327617,,,0
+H3,2012,2012,2012,2,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2987461,,,0
+H3,2013,2013,2013,2,0,1,Import,24,Angola,AGO,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,141922163,,,0
+H3,2013,2013,2013,2,0,1,Import,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,8012390,,,0
+H3,2013,2013,2013,2,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3254189,,,0
+H3,2013,2013,2013,2,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,5237321,,,0
+H3,2013,2013,2013,2,0,1,Import,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1825930,,,0
+H3,2013,2013,2013,2,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1094962,,,0
+H3,2013,2013,2013,2,0,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,25109218,,,0
+H3,2013,2013,2013,2,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2591979,,,0
+H3,2013,2013,2013,2,0,1,Import,275,State of Palestine,PSE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,56421960,,,0
+H3,2013,2013,2013,2,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,13962695,,,0
+H3,2013,2013,2013,2,0,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,59876337,,,0
+H3,2013,2013,2013,2,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,25165183,,,0
+H3,2013,2013,2013,2,0,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,49308622,,,0
+H3,2013,2013,2013,2,0,1,Import,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2978086,,,0
+H3,2013,2013,2013,2,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3192143,,,0
+H3,2013,2013,2013,2,0,1,Import,478,Mauritania,MRT,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,20735714,,,0
+H3,2013,2013,2013,2,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,32490887,,,0
+H3,2013,2013,2013,2,0,1,Import,500,Montserrat,MSR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,366194,,,0
+H3,2013,2013,2013,2,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,20276430,,,0
+H3,2013,2013,2013,2,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,17961889,,,0
+H3,2013,2013,2013,2,0,1,Import,540,New Caledonia,NCL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,11283788,,,0
+H3,2013,2013,2013,2,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,7213914,,,0
+H3,2013,2013,2013,2,0,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,14456069,,,0
+H3,2013,2013,2013,2,0,1,Import,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2228156,,,0
+H3,2013,2013,2013,2,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,47647208,,,0
+H3,2013,2013,2013,2,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,5987861,,,0
+H3,2013,2013,2013,2,0,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,10561023,,,0
+H3,2013,2013,2013,2,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1843826,,,0
+H3,2013,2013,2013,2,0,1,Import,776,Tonga,TON,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,686632,,,0
+H3,2013,2013,2013,2,0,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,185629076,,,0
+H3,2013,2013,2013,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,591941836,,,0
+H3,2013,2013,2013,2,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,4016175,,,0
+H3,2014,2014,2014,2,0,1,Import,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,7964114,,,0
+H3,2014,2014,2014,2,0,1,Import,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,12745879,,,0
+H3,2014,2014,2014,2,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1729660,,,0
+H3,2014,2014,2014,2,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3370321,,,0
+H3,2014,2014,2014,2,0,1,Import,275,State of Palestine,PSE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,41170920,,,0
+H3,2014,2014,2014,2,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,13218957,,,0
+H3,2014,2014,2014,2,0,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,60460356,,,0
+H3,2014,2014,2014,2,0,1,Import,478,Mauritania,MRT,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,22098209,,,0
+H3,2014,2014,2014,2,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,30021007,,,0
+H3,2014,2014,2014,2,0,1,Import,500,Montserrat,MSR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,323627,,,0
+H3,2014,2014,2014,2,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,24100260,,,0
+H3,2014,2014,2014,2,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,8260298,,,0
+H3,2014,2014,2014,2,0,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,13713570,,,0
+H3,2014,2014,2014,2,0,1,Import,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2675518,,,0
+H3,2014,2014,2014,2,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,48605802,,,0
+H3,2014,2014,2014,2,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,8500978,,,0
+H3,2014,2014,2014,2,0,1,Import,694,Sierra Leone,SLE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,6981533,,,0
+H3,2014,2014,2014,2,0,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,9548673,,,0
+H3,2014,2014,2014,2,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2134981,,,0
+H3,2014,2014,2014,2,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2023045,,,0
+H3,2015,2015,2015,2,0,1,Import,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,7959472,,,0
+H3,2015,2015,2015,2,0,1,Import,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2896882,,,0
+H3,2015,2015,2015,2,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,14082551,,,0
+H3,2015,2015,2015,2,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,19546017,,,0
+H3,2015,2015,2015,2,0,1,Import,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2902253,,,0
+H3,2015,2015,2015,2,0,1,Import,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1920405,,,0
+H3,2015,2015,2015,2,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,9658726,,,0
+H3,2015,2015,2015,2,0,1,Import,694,Sierra Leone,SLE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,13598787,,,0
+H3,2015,2015,2015,2,0,1,Import,729,Sudan,SDN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,131179798,,,0
+H2,2011,2011,2011,2,0,1,Import,4,Afghanistan,AFG,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,17435697,,,0
+H2,2011,2011,2011,2,0,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,13630123,,,0
+H2,2011,2011,2011,2,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,39729467,,,0
+H2,2011,2011,2011,2,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,5101691,,,0
+H2,2011,2011,2011,2,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,5936245,,,0
+H2,2011,2011,2011,2,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,788291,,,0
+H2,2011,2011,2011,2,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,7724859,,,0
+H2,2011,2011,2011,2,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1123536,,,0
+H2,2011,2011,2011,2,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,576357,,,0
+H2,2011,2011,2011,2,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,11079972,,,0
+H2,2011,2011,2011,2,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,61468991,,,0
+H2,2011,2011,2011,2,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,14274000,,,0
+H2,2011,2011,2011,2,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,93244207,,,0
+H2,2011,2011,2011,2,0,1,Import,548,Vanuatu,VUT,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2055764,,,0
+H2,2011,2011,2011,2,0,1,Import,583,FS Micronesia,FSM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1151618,,,0
+H2,2011,2011,2011,2,0,1,Import,585,Palau,PLW,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1156372,,,0
+H2,2011,2011,2011,2,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,74110538,,,0
+H2,2011,2011,2011,2,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,8994666,,,0
+H2,2011,2011,2011,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,979015062,,,0
+H2,2011,2011,2011,2,0,1,Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,184325110,,,0
+H2,2012,2012,2012,2,0,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,12676613,,,0
+H2,2012,2012,2012,2,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,38419698,,,0
+H2,2012,2012,2012,2,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2709168,,,0
+H2,2012,2012,2012,2,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,4054956,,,0
+H2,2012,2012,2012,2,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,572939,,,0
+H2,2012,2012,2012,2,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,11003574,,,0
+H2,2012,2012,2012,2,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,888842,,,0
+H2,2012,2012,2012,2,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,372216,,,0
+H2,2012,2012,2012,2,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,13194300,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,55744903,,,0
+H2,2012,2012,2012,2,0,1,Import,583,FS Micronesia,FSM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1110377,,,0
+H2,2012,2012,2012,2,0,1,Import,585,Palau,PLW,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1058759,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,65277686,,,0
+H2,2012,2012,2012,2,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,182229559,,,0
+H2,2012,2012,2012,2,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,7412244,,,0
+H2,2012,2012,2012,2,0,1,Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,218334090,,,0
+H2,2013,2013,2013,2,0,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,14252149,,,0
+H2,2013,2013,2013,2,0,1,Import,136,Cayman Isds,CYM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,19826964,,,0
+H2,2013,2013,2013,2,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,343258,,,0
+H2,2013,2013,2013,2,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,10668588,,,0
+H2,2013,2013,2013,2,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,313537,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,68172357,,,0
+H2,2013,2013,2013,2,0,1,Import,583,FS Micronesia,FSM,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1116024,,,0
+H2,2013,2013,2013,2,0,1,Import,585,Palau,PLW,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1272233,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,78743863,,,0
+H2,2013,2013,2013,2,0,1,Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,159495208,,,0
+H2,2014,2014,2014,2,0,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,13080484,,,0
+H2,2014,2014,2014,2,0,1,Import,368,Iraq,IRQ,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,137244728,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,91700203,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,83394021,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,96815801,,,0
+H2,2015,2015,2015,2,0,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,13612570,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,93750436,,,0
+H1,2011,2011,2011,2,0,1,Import,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,7412849,,,0
+H1,2011,2011,2011,2,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1371994,,,0
+H1,2012,2012,2012,2,0,1,Import,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,7947011,,,0
+H1,2012,2012,2012,2,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1347487,,,0
+H1,2013,2013,2013,2,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1891360,,,0
+H1,2014,2014,2014,2,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1629351,,,0
+H0,2011,2011,2011,2,0,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,1530636,,,0
